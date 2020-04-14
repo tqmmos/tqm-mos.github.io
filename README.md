@@ -1,2 +1,2 @@
-﻿#  http://tqm-mos.github.io    
+﻿#  http://tqm-mos.com.vn    
 Repo By TQM-Mos
