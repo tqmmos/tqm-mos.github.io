@@ -15,6 +15,58 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.pivot
+Name: Pivot
+Depends: mobilesubstrate, firmware (>= 6.0) 
+Architecture: iphoneos-arm
+Description: AutoRotate on the Home Screen on all devices
+Maintainer: @tqmmos
+Author: Kritanta
+Section: Tweaks
+Version: 0.2.2
+Installed-Size: 576
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pivot
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pivot
+Filename: ./debs/com.tqm-mos.pivot_0.2.2_iphoneos-arm.deb
+Size: 56140
+MD5sum: f385fe8984a982206c5f0cc3843a0f92
+SHA1: 8b4492aff3ef6160e03ed3e78a8c45ea5e15520c
+SHA256: 7d334f05316aa7fc34ab7a4780784907c646f5b5abb4620ac4623f6d722ea163
+
+Package: com.tqm-mos.gravitatio
+Name: Gravitation
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Shake your phone to unhinge your icons!
+Maintainer: Kritanta
+Author: Kritanta
+Section: Tweaks
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gravitatio
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gravitatio
+Filename: ./debs/com.tqm-mos.gravitatio_0.1.0_iphoneos-arm.deb
+Size: 104824
+MD5sum: def1a0fb3922811dca2d3a1d645a56b8
+SHA1: dccca40c77487b1e545918fab20fe851a4a4f6b1
+SHA256: c3bcb84dfac6c21313e795fd5d039c778ef5f3e76a0c8908f56e655c5a45bad8
+
+Package: com.tqm-mos.flotus
+Name: Flotus
+Version: 1.0b3
+Architecture: iphoneos-arm
+Description: Round Status and Create a background color.
+Author: FTiOS Team <repo@ftios.vn>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flotus
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flotus
+Filename: ./debs/com.tqm-mos.flotus_1.0b3_iphoneos-arm.deb
+Size: 28698
+MD5sum: ecfe490b40f613ad7d4b5606cff29111
+SHA1: 7b128e96566aa2bc2bc13411e54f08c60057ab9e
+SHA256: 2c5578cac945dec82a02c79d06e664ff3c57ac9fdf4bbbedd681c3c67acdacc7
+
 Package: com.rpetrich.rocketbootstrap
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
 Name: RocketBootstrap
@@ -80,6 +132,7 @@ Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.flex2areo.apptools, org.cydia.kiimo.apptools
 Architecture: iphoneos-arm
 Installed-Size: 1313
+Description: pubg code hots
 Name: AntiBan PUBG Code
 Author: @tqmmos <anhminh311105@gmail.com>
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.antibancode
@@ -1882,8 +1935,8 @@ Name: Chat Bong Bóng
 Version: 3.0
 Architecture: iphoneos-arm
 Description: Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
-SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
+Depiction: https://tqm-mos.github.io/description.html?id=com.c1d3r.messageheadsxi
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.c1d3r.messageheadsxi
 Author: C1d3 <anhminh311105@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 10), mobilesubstrate, com.rpetrich.rocketbootstrap, com.tqm-mos.crack, com.tqm-mos.mhfbsupport, com.tqm-mos.mhwasupport, com.tqm-mos.mhsmssupport
@@ -2707,8 +2760,8 @@ Section: IOS12
 Provides: com.springtomize.st4.new
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp4
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp4
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st412
 Homepage: https://www.facebook.com/quangminhdx
 Filename: ./debs/com.tqm-mos.st412_4.1.0_iphoneos-arm.deb
 Size: 932070
@@ -2895,8 +2948,8 @@ Installed-Size: 2477
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
 Homepage: https://www.facebook.com/quangminhdx
 Filename: ./debs/com.tqm-mos.st5_5.0.7_iphoneos-arm.deb
 Size: 823098
@@ -2914,8 +2967,8 @@ Installed-Size: 2432
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
 Homepage: https://www.facebook.com/quangminhdx
 Filename: ./debs/com.tqm-mos.st5_5.0.4_iphoneos-arm.deb
 Size: 770686
@@ -2933,8 +2986,8 @@ Installed-Size: 2432
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sp5
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
 Homepage: https://www.facebook.com/quangminhdx
 Filename: ./debs/com.tqm-mos.st5_5.0.2_iphoneos-arm.deb
 Size: 764746
@@ -4894,25 +4947,6 @@ Size: 9006004
 MD5sum: 21e7de04a9d33928cfe22770dc453056
 SHA1: 5492b1bcf7014bdb4ae4a1ee9761ad4f5572e859
 SHA256: 8c25f5059f07eb6fd5b1456e01fae4548407d215f1a92df0b537fe815a236eae
-
-Package: com.tqm-mos.prysm.beta
-Name: Prysm Beta 4 Cracked
-Author: LaughingQuoll
-Description: Your control center, reimagined.
-Maintainer: @tqmmos <anhminh311105@gmail.com>
-Version: 0.4
-Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Installed-Size: 1252
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.prysm.beta_0.4_iphoneos-arm.deb
-Size: 243446
-MD5sum: 92ebdfa27bbe5306946b26f3e2fcce75
-SHA1: c5cc1fe69215cb15c98926f1d9b29d0c15fc0bb1
-SHA256: 877a18a7b291fbe99d955fab2f5f5e818d8fe40f14f411fba9e13764d24d9105
 
 Package: com.tqm-mos.dai
 Version: 1.0
@@ -7211,8 +7245,8 @@ Maintainer: TQM
 Author: @tqmmos
 Section: TQM
 Version: 1.0
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carnival
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.carnival
 Filename: ./debs/com.tqm-mos.carnival_1.0_iphoneos-arm.deb
 Size: 5994598
 MD5sum: 367947906aa64277b5ee741136f8c7b6
@@ -7227,8 +7261,8 @@ Maintainer: TQM
 Author: @tqmmos
 Section: TQM
 Version: 1.0
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.minion
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.minion
 Filename: ./debs/com.tqm-mos.minion_1.0_iphoneos-arm.deb
 Size: 6104090
 MD5sum: 662f33f8e6ff36e5316b7b2a00b7ada5
@@ -7243,8 +7277,8 @@ Maintainer: TQM
 Author: @tqmmos
 Section: TQM
 Version: 1.0
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mugsy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mugsy
 Filename: ./debs/com.tqm-mos.mugsy_1.0_iphoneos-arm.deb
 Size: 9053780
 MD5sum: df1b0e2fd4088c777bc9d8b1a593b923
@@ -7275,6 +7309,7 @@ Depends:
 Architecture: iphoneos-arm
 Description: [Enter generic HS widget description ^_^]
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbchimbay
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sbchimbay
 Author: Mos
 Maintainer: QM
 Section: Iwidgets
@@ -7293,8 +7328,8 @@ Maintainer: TQM
 Author: @tqmmos
 Section: TQM
 Version: 1.0
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pipo
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pipo
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pigpig
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pigpig
 Filename: ./debs/com.tqm-mos.pigpig_1.0_iphoneos-arm.deb
 Size: 3304514
 MD5sum: b0ba74ea8bd8eea863afc5a4483b9838
@@ -7326,8 +7361,8 @@ Installed-Size: 45591
 Section: TQM
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311105@gmail.com>
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.classic12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.classic12
 Filename: ./debs/com.tqm-mos.classic12_2.1_iphoneos-arm.deb
 Size: 45905962
 MD5sum: ba48e612180d08ed2047c075d9a90498
@@ -7343,8 +7378,8 @@ Section: TQM
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Installed-Size: 11323
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darque
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darque
 Filename: ./debs/com.tqm-mos.darque_6.4_iphoneos-arm.deb
 Size: 10563864
 MD5sum: 390a3d12f4502f7eaab4577f26d214bf
@@ -7360,8 +7395,8 @@ Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Installed-Size: 13909
 Author: @tqmmos <anhminh311105@gmail.com>
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darqueforamoled
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.darqueforamoled
 Filename: ./debs/com.tqm-mos.darqueforamoled_6.2_iphoneos-arm.deb
 Size: 13336096
 MD5sum: 7f0d5990447f45dc9c261de152f026a8
@@ -7377,8 +7412,8 @@ Section: TQM
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311106@gmail.com>
 Installed-Size: 26386
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.desplanta
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.desplanta
 Filename: ./debs/com.tqm-mos.desplanta_1.0_iphoneos-arm.deb
 Size: 17057632
 MD5sum: f436326417b2b0bcaf7fbb50a84dcda3
@@ -7394,8 +7429,8 @@ Section: TQM
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Installed-Size: 15500
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.folds
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.folds
 Filename: ./debs/com.tqm-mos.folds_1.4_iphoneos-arm.deb
 Size: 13251050
 MD5sum: 019f2662458725a861c1fef4458e6072
@@ -7410,8 +7445,8 @@ Section: TQM
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminh311105@gmail.com>
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.glasso
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.glasso
 Filename: ./debs/com.tqm-mos.glasso_1.1_iphoneos-arm.deb
 Size: 5293688
 MD5sum: 3d525ace298096267a8982a7b485794c
@@ -7426,8 +7461,8 @@ Maintainer: @tqmmos <anhminh311105@gmail.com>
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminh311105@gmail.com>
 Description: Themes
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.leather
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.leather
 Filename: ./debs/com.tqm-mos.leather_1.2.4_iphoneos-arm.deb
 Size: 6300914
 MD5sum: 68b657e131d6fa33d4edc4a4dfa00d37
@@ -7443,8 +7478,8 @@ Section: TQM
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311106@gmail.com>
 Installed-Size: 38848
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mojoxdark
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mojoxdark
 Filename: ./debs/com.tqm-mos.mojoxdark_2.3_iphoneos-arm.deb
 Size: 35340984
 MD5sum: e9a80127c02443885697adc21a6cf7c2
@@ -7460,8 +7495,8 @@ Section: TQM
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Installed-Size: 22079
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.moody
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.moody
 Filename: ./debs/com.tqm-mos.moody_1.1_iphoneos-arm.deb
 Size: 16615848
 MD5sum: 08689b891c1fdd0b27df0d17cc8eb317
@@ -7477,8 +7512,8 @@ Section: TQM
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Installed-Size: 42063
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reinfree
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reinfree
 Filename: ./debs/com.tqm-mos.reinfree_1.0_iphoneos-arm.deb
 Size: 18177016
 MD5sum: da186ab6ccf7ce44d059235d272ecc38
@@ -7493,8 +7528,8 @@ Section: TQM
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Architecture: iphoneos-arm
 Author:  @tqmmos <anhminh311105@gmail.com>
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.roundblack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.roundblack
 Filename: ./debs/com.tqm-mos.roundblack_1.1_iphoneos-arm.deb
 Size: 5469782
 MD5sum: 53ca6620bc0bc99eae2df7123dab4734
@@ -7510,8 +7545,8 @@ Section: TQM
 Architecture: iphoneos-arm
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Installed-Size: 21488
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.samsungtheme
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.samsungtheme
 Filename: ./debs/com.tqm-mos.samsungtheme_1.3_iphoneos-arm.deb
 Size: 13011594
 MD5sum: 1c2fdc72a2bbf084a48772b1647e7ad0
@@ -7526,8 +7561,8 @@ Maintainer: @tqmmos <anhminh311105@gmail.com>
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminh311105@gmail.com>
 Description: Themes
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tangy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.tangy
 Filename: ./debs/com.tqm-mos.tangy_1.0_iphoneos-arm.deb
 Size: 866414
 MD5sum: d9c667631dac49bdc9904b3058ea0278
@@ -7815,7 +7850,7 @@ Maintainer: Jake James <jakeashacks@gmail.com>
 Author: Jake James <jakeashacks@gmail.com>
 Section: Anemone 3
 SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3-extsb
-Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3
 Filename: ./debs/ga.jakeashacks.anemoneinstaller_1.0.16_iphoneos-arm.deb
 Size: 17990
 MD5sum: 7873d54da11cd1477d32619a25b32ccb
@@ -8061,8 +8096,8 @@ Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
 Maintainer: TQM
 Author: @tqmmos
 Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=minhhi.coralblue30
+SileoDepiction: http://tqm-mos.github.io/description.html?id=minhhi.coralblue30
 Filename: ./debs/minhhi.coralblue30_1.0_iphoneos-arm.deb
 Size: 18668056
 MD5sum: b8550d16f2827d0e630b88602c235a3e
@@ -8077,8 +8112,8 @@ Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
 Maintainer: TQM
 Author: @tqmmos
 Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=minhhi.coralgold30
+SileoDepiction: http://tqm-mos.github.io/description.html?id=minhhi.coralgold30
 Filename: ./debs/minhhi.coralgold30_1.0_iphoneos-arm.deb
 Size: 14280044
 MD5sum: 168bceadd46e1e3010e7a61f7d49ed27
@@ -8093,8 +8128,8 @@ Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
 Maintainer: TQM
 Author: @tqmmos
 Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=minhhi.coralgraymod30
+SileoDepiction: http://tqm-mos.github.io/description.html?id=minhhi.coralgraymod30
 Filename: ./debs/minhhi.coralgraymod30_1.0_iphoneos-arm.deb
 Size: 12912484
 MD5sum: 883717be564845a18bc58cf0ed6251b0
@@ -8109,8 +8144,8 @@ Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
 Maintainer: TQM
 Author: @tqmmos
 Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=minhhi.coralgreen30
+SileoDepiction: http://tqm-mos.github.io/description.html?id=minhhi.coralgreen30
 Filename: ./debs/minhhi.coralgreen30_1.0_iphoneos-arm.deb
 Size: 20472934
 MD5sum: ce8f8d0a21e19c94a41494706331ed3a
@@ -8125,8 +8160,8 @@ Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
 Maintainer: TQM
 Author: @tqmmos
 Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=minhhi.coralmix30
+SileoDepiction: http://tqm-mos.github.io/description.html?id=minhhi.coralmix30
 Filename: ./debs/minhhi.coralmix30_1.0_iphoneos-arm.deb
 Size: 18361640
 MD5sum: 001bea44fd14cecb92a8aceb4305a2d9
@@ -8141,8 +8176,8 @@ Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
 Maintainer: TQM
 Author: @tqmmos
 Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=minhhi.coralred30
+SileoDepiction: http://tqm-mos.github.io/description.html?id=minhhi.coralred30
 Filename: ./debs/minhhi.coralred30_1.0_iphoneos-arm.deb
 Size: 18731828
 MD5sum: 9661c89994ed4a23b0717245954b4aff
@@ -8157,8 +8192,8 @@ Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
 Maintainer: TQM
 Author: @tqmmos
 Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=minhhi.coralteal30
+SileoDepiction: http://tqm-mos.github.io/description.html?id=minhhi.coralteal30
 Filename: ./debs/minhhi.coralteal30_1.0_iphoneos-arm.deb
 Size: 19610726
 MD5sum: e7148fb42e69021eb7c92b7207546c12
@@ -8173,8 +8208,8 @@ Description: Themes ( Snowboard - Anemone - Anemone 3 - iThemer )
 Maintainer: TQM
 Author: @tqmmos
 Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=minhhi.coralwhite30
+SileoDepiction: http://tqm-mos.github.io/description.html?id=minhhi.coralwhite30
 Filename: ./debs/minhhi.coralwhite30_1.0_iphoneos-arm.deb
 Size: 18913010
 MD5sum: 43b162f1a13acd870912a552a09a7cb0
@@ -8465,8 +8500,8 @@ Maintainer: @tqmmos <anhminh311105@gmail.com>
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminh311105@gmail.com>
 Description: Theme
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.backgold
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.backgold
 Filename: ./debs/com.tqm-mos.backgold_1.0_iphoneos-arm.deb
 Size: 11459472
 MD5sum: 5b484ea19e103384cf559e5f5ac943d2
@@ -8481,8 +8516,8 @@ Section: TQM
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminh311105@gmail.com>
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blacklive
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.blacklive
 Filename: ./debs/com.tqm-mos.blacklive_1.0-2_iphoneos-arm.deb
 Size: 2709120
 MD5sum: 6972ce7e635d502467a7c0137f627bba
@@ -8578,8 +8613,8 @@ Section: TQM
 Maintainer: @tqmmos <anhminh311105@gmail.com>
 Architecture: iphoneos-arm
 Author: @tqmmos <anhminh311105@gmail.com>
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.info
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.v4theme
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.v4theme
 Filename: ./debs/com.tqm-mos.v4theme_1.3_iphoneos-arm.deb
 Size: 64208450
 MD5sum: bec0be22702aaf5b434dfce6fbb5b774
@@ -10742,8 +10777,8 @@ Description: Anemone 3.0 for unc0ver! If this doesn't work, wait for me to updat
 Maintainer: Jake James <jakeashacks@gmail.com>
 Author: Jake James <jakeashacks@gmail.com>
 Section: Anemone 3
-Depiction: http://tqm-mos.github.io/description.html?id=anemone3
-SileoDepiction: http://tqm-mos.github.io/description.html?id=anemone3
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3
 Filename: ./debs/ga.jakeashacks.anemoneinstaller_1.0.15_iphoneos-arm.deb
 Size: 17968
 MD5sum: 7626733cb0f8312dbd63aebf9b2e0261
@@ -28042,6 +28077,8 @@ Author: dev <devmos388373@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
 Maintainer: QM <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy2
 Filename: ./debs/com.tqm-mos.boxy2_2.1.1_iphoneos-arm.deb
 Size: 2668776 
 MD5sum: 4cb35f5b8f69ae0500056582d0580690
@@ -28056,6 +28093,8 @@ Section: Tweaks
 Maintainer: QM 
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
 Conflicts: com.evilgoldfish.lockglyph
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.com.lockglyphx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.com.lockglyphx
 Filename: ./debs/com.tqm-mos.com.lockglyphx_1.0.1-2_iphoneos-arm.deb
 Size: 116990 
 MD5sum: 4d3806fc7faf0867dde2d9a922528dbc
@@ -28069,6 +28108,8 @@ Description: Cydia Extender Super Modded
 Author: dev <devmos388373@gmail.com>
 Section: Tweaks
 Maintainer: QM <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ext3nde
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ext3nde
 Filename: ./debs/com.tqm-mos.ext3nde_0.9.41_iphoneos-arm.deb
 Size: 2038640 
 MD5sum: 64be13b01858f7de6e85827109e16932
@@ -28083,6 +28124,8 @@ Maintainer: QM <devmos388373@gmail.com>
 Section: IOS11
 Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flex3
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flex3
 Filename: ./debs/com.tqm-mos.flex3_1_3~Beta46_iphoneos-arm.deb
 Size: 18743346 
 MD5sum: 38a8495cd42a54546226312bc7ae3b6e
@@ -28098,6 +28141,8 @@ Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap (>= 1.0)
 Icon: file:///Applications/Flex.app/AppIcon29x29@2x.png
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, flex3, flex3beta
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.flex3-32b
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flex3-32b
 Filename: ./debs/com.tqm-mos.flex3-32b_1.3-3_iphoneos-arm.deb
 Size: 34487804 
 MD5sum: a2e457f85e6bd491e83823a0ee34eda1
@@ -28115,6 +28160,8 @@ Section: Tweaks
 Tag: purpose::extension, compatible::ios8
 Installed-Size: 677
 dev: mos
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.lockglyph
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.lockglyph
 Icon: file:///Library/PreferenceBundles/LockGlyphPrefs.bundle/LockGlyphPrefs@2x.png
 Filename: ./debs/com.tqm-mos.lockglyph_1.1.14_iphoneos-arm.deb
 Size: 169280 
@@ -28129,6 +28176,8 @@ Author: Mos
 Maintainer: QM <devmos388373@gmail.com>
 Section: IOS11
 Depends: firmware (>= 11)
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.unjbelectra
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.unjbelectra
 Filename: ./debs/com.tqm-mos.unjbelectra_1.1-6_iphoneos-arm.deb
 Size: 4446 
 MD5sum: 960d0d7b97c1cb4b54288c1c6cfa6123
@@ -28142,6 +28191,8 @@ Author: Mos
 Maintainer: QM <devmos388373@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 10)
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.semirestore
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.semirestore
 Filename: ./debs/com.tqm-mos.semirestore_1.1-6_iphoneos-arm.deb
 Size: 9508 
 MD5sum: 664985d547c4bdf059924a3f352c949f
@@ -28155,6 +28206,8 @@ Author: dev
 Section: Tweaks
 Maintainer: QM <devmos388373@gmail.com>
 Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.atmos
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.atmos
 Filename: ./debs/com.tqm-mos.atmos_1.0_iphoneos-arm.deb
 Size: 46978 
 MD5sum: 4126c609fbfe34d45487488789ffc098
@@ -28168,6 +28221,8 @@ Author: Mos
 Maintainer: QM
 Section: Tweaks
 Depends: mobilesubstrate, libactivator
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.activatorviet
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.activatorviet
 Filename: ./debs/com.tqm-mos.activatorviet_1.0_iphoneos-arm.deb
 Size: 9160 
 MD5sum: 5574fb4554b72f6b7cf85d0419a5dd14
@@ -28182,6 +28237,8 @@ Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, libactivator,com.tqm-mos.activatorviet
 Icon: file:///Library/PreferenceBundles/GravitationSettings.bundle/GravitationSettingsIcon@2x.png
 Maintainer: QM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gravitation
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gravitation
 Filename: ./debs/com.tqm-mos.gravitation_1.0.3_iphoneos-arm.deb
 Size: 1450312 
 MD5sum: 8d27a00bb5ceb34a50f6da7e6f7907a3
@@ -28198,6 +28255,8 @@ Section: Tweaks
 dev: filippobiga
 Installed-Size: 502
 Tag: purpose::extension
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.harlem
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.harlem
 Filename: ./debs/com.tqm-mos.harlem_1.0-1_iphoneos-arm.deb
 Size: 495048 
 MD5sum: 82c00093da261906c1f6656d8c01040d
@@ -28211,6 +28270,8 @@ Author: foxfo
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist
 Maintainer: QM <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.noctisxi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.noctisxi
 Filename: ./debs/com.tqm-mos.noctisxi_1.6.3_iphoneos-arm.deb
 Size: 139252 
 MD5sum: 5699c9b92f9a05b55bdd49ebffaafe02
@@ -28225,6 +28286,8 @@ Section: Tweaks
 Maintainer: QM <devmos388373@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate
 Icon: file:///Library/Application%20Support/Lamo/icon-small@2x.png
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.mirmir
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.mirmir
 Filename: ./debs/com.tqm-mos.mirmir_1.2_iphoneos-arm.deb
 Size: 874894 
 MD5sum: 0661fba2c0809312f79d303656162fe0
@@ -28241,6 +28304,8 @@ Section: Tweaks
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
 Icon: file:///Library/PreferenceBundles/harborprefs.bundle/harborprefs@2x.png
 Maintainer: QM <devmos388373@gmail.com>
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.harbor10
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.harbor10
 Filename: ./debs/com.tqm-mos.harbor10_1.1.5-1_iphoneos-arm.deb
 Size: 126270 
 MD5sum: f1201d688df61ae6c17c6e6de8c126ca
@@ -28256,6 +28321,8 @@ Depends: firmware(>= 3.1), mobilesubstrate, gsc.armv7, preferenceloader
 Conflicts: net.limneos.sbrotator (<= 2.1.5)
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 Maintainer: QM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barrel
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barrel
 Filename: ./debs/com.tqm-mos.barrel_1.8.1.1-1_iphoneos-arm.deb
 Size: 1838550 
 MD5sum: c9959bb8fc86f3c9db9be6d661767f5b
@@ -28268,6 +28335,8 @@ Description: NoctisXI is a system dark mode for iOS
 Author: Mos
 Section: IOS11
 Maintainer: QM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.noctisxlx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.noctisxlx
 Depends: mobilesubstrate, firmware (>= 10.0)
 Conflicts: com.yourepo.kiiimo.silo, com.ioscreatix.silo, com.hackyouriphone.silo, com.yourepo.mohadu31.silo
 Filename: ./debs/com.tqm-mos.noctisxlx_1.0.4_iphoneos-arm.deb
@@ -28282,6 +28351,8 @@ Description: -
 Author: Mos
 Section: Utilities
 Maintainer: QM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.-
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.-
 Filename: ./debs/com.tqm-mos.-_1.0_iphoneos-arm.deb
 Size: 910474 
 MD5sum: c00a69711b7948fc812d9417eed80ed9
@@ -28301,6 +28372,8 @@ Description: allow full file-system access over USB
 Name: Apple File Conduit "2"
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Tag: purpose::daemon, role::enduser
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.afc2d
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.afc2d
 Filename: ./debs/com.tqm-mos.afc2d_1.2_iphoneos-arm.deb
 Size: 18200 
 MD5sum: 067ff6ad614216bfcd5c9f6fe1d63214
@@ -28321,6 +28394,8 @@ Description: Allow full file-system access over USB for arm64 devices, especiall
 dev: cannathea
 Tag: purpose::daemon, compatible::ios10, compatible::ios11
 Installed-Size: 214
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.afc2d-arm64
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.afc2d-arm64
 Filename: ./debs/com.tqm-mos.afc2d-arm64_1.0_iphoneos-arm.deb
 Size: 10284 
 MD5sum: bd7d5031831598bff7dcf9118259937c
@@ -28334,6 +28409,8 @@ Section: IOS11
 Maintainer: Mos
 Depends: firmware (>= 11)
 Icon: file:///Applications/Cydia.app/Sections/System.png
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.afc2forios11
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.afc2forios11
 Filename: ./debs/com.tqm-mos.afc2forios11_1.2.1_iphoneos-arm.deb
 Size: 14158 
 MD5sum: 477cd7a944d22d6944c56b0afce52cc7
@@ -28346,6 +28423,8 @@ Description: evolutionizes the device's dock!
 Author: Mos
 Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cirdock
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cirdock
 Icon: file:///PreferenceBundles/CirDockSettings.bundle/Icon-Small@2x.png
 Maintainer: QM
 Filename: ./debs/com.tqm-mos.cirdock_1.3.0_iphoneos-arm.deb
@@ -28360,6 +28439,8 @@ Description: evolutionizes the device's dock!
 Author: Mos
 Section: IOS11
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cirdock11
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cirdock11
 Conflicts: org.thebigboss.cirdock, com.repo.xarold.com.cirdock
 Icon: file:///PreferenceBundles/CirDockSettings.bundle/Icon-Small@2x.png
 Maintainer: QM
@@ -28376,6 +28457,8 @@ Maintainer: QM
 Author: Mos
 Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Depiction: https://tqm-mos.github.io/description.html?id=com.Tqm-mos.DeleteForever
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.Tqm-mos.DeleteForever
 Filename: ./debs/com.Tqm-mos.DeleteForever_0.0.1-57_iphoneos-arm.deb
 Size: 275618 
 MD5sum: d46cdd70c59d0ba281b96686eb52e647
@@ -28392,6 +28475,8 @@ Author: Mos
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 11.0), com.chpwn.iconsupport
 Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser, com.lizynz.foldercolor, com.lizynz.fullfolder9
+Depiction: https://tqm-mos.github.io/description.html?id=com.Tqm-mos.FullFolder
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.Tqm-mos.FullFolder
 Filename: ./debs/com.Tqm-mos.FullFolder_1.1-3_iphoneos-arm.deb
 Size: 31496 
 MD5sum: b3936c2b75ea3b2d3919deed4de6bf5e
@@ -28408,6 +28493,8 @@ Author: Mos
 Section: IOS11
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser, com.lizynz.foldercolor, com.lizynz.fullfolder9, com.lizynz.fullfolder11, com.cydiageek.huefolderbg
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.FullFolderX
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.FullFolderX
 Filename: ./debs/com.tqm-mos.FullFolderX_1.1-2_iphoneos-arm.deb
 Size: 24872 
 MD5sum: c72c03e58e79d084a678d5921c9cb606
@@ -28422,6 +28509,8 @@ Description: Jailbreaker!!!!!!!!!!!!!!! Enable iPad-like Safari tabs on any devi
 Maintainer: QM
 Author: Mos
 Section: Tweaks
+Depiction: https://tqm-mos.github.io/description.html?id=com.Tqm-mos.FullSafari1.2-1
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.Tqm-mos.FullSafari1.2-1
 Depends: mobilesubstrate
 Filename: ./debs/com.Tqm-mos.FullSafari1.2-1_1.2-1_iphoneos-arm.deb
 Size: 12462 
@@ -28438,6 +28527,8 @@ Author: mos
 Section: IOS11
 Maintainer: QM
 Depends: mobilesubstrate
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.igam
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.igam
 Filename: ./debs/com.tqm-mos.igam_0.0.1-3+debug_iphoneos-arm.deb
 Size: 4548 
 MD5sum: 8487d39a6b90448434e581c9a1b9d29b
@@ -28457,7 +28548,8 @@ Tag: purpose::extension, compatible::ios12
 Installed-Size: 1530
 dev: stgardner4
 Maintainer: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=com.de12
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.successionrestore
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.successionrestore
 Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
 Filename: ./debs/com.tqm-mos.successionrestore_1.0_iphoneos-arm.deb
 Size: 829720 
@@ -28478,8 +28570,9 @@ Section: IOS12
 Tag: purpose::uikit, compatible::ios10, compatible::ios11, compatible::ios12
 Installed-Size: 3220
 dev: stgardner4
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.successionrestore
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.successionrestore
 Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
-Depiction: http://tqm-mos.github.io/description.html?id=com.de12
 Filename: ./debs/com.tqm-mos.successionrestore_1.1_iphoneos-arm.deb
 Size: 2263164 
 MD5sum: 1e0f134cebac874887a652fcc22fc830
@@ -28497,6 +28590,7 @@ Section: IOS11
 Version: 1.0.2
 Installed-Size: 1896
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
 Filename: ./debs/com.tqm-mos.sixls_1.0.2_iphoneos-arm.deb
 Size: 1491878 
 MD5sum: a6b1bae3742c66bbb7d1fff11b593fb0
@@ -28513,7 +28607,8 @@ Author: Nepeta
 Section: IOS11
 Version: 0.1.1
 Installed-Size: 188
-Depiction: https://tqm-mos.github.io/description.html?id=com.konban
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.konban
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.konban
 Filename: ./debs/com.tqm-mos.konban_0.1.1_iphoneos-arm.deb
 Size: 13270 
 MD5sum: 09ebe554e2519c720f7748f7682bd026
@@ -28530,7 +28625,8 @@ Author: Nepeta
 Section: IOS11
 Version: 0.1.2
 Installed-Size: 308
-Depiction: https://tqm-mos.github.io/description.html?id=com.konban
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.konban
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.konban
 Filename: ./debs/com.tqm-mos.konban_0.1.2_iphoneos-arm.deb
 Size: 48292 
 MD5sum: 1f8d75180e824f28dcb12b37bea7ef0f
@@ -28547,7 +28643,8 @@ Name: PullOver Pro Cracked
 Author: c1d3r
 Maintainer: Quang Minh
 Description: Một tinh chỉnh giúp bạn mở nhanh các app dạng cửa sổ nhỏ bên cạnh ( hông ) máy 
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.PullOverPro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.PullOverPro
 Filename: ./debs/com.tqm-mos.PullOverPro_1.2_iphoneos-arm.deb
 Size: 5722686 
 MD5sum: 3103b7993abe8114aae2aa8997783351
@@ -28565,6 +28662,8 @@ Architecture: iphoneos-arm
 Author: Matt Clarke <matt@incendo.ws>
 dev: Matt Clarke <matt@incendo.ws>
 Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.matchstic.libgithubissues
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.matchstic.libgithubissues
 Filename: ./debs/com.matchstic.libgithubissues_0.0.3_iphoneos-arm.deb
 Size: 1006660 
 MD5sum: 0644cb7175170d98dd801125dea99d9c
@@ -28584,6 +28683,8 @@ Author: Matt Clarke <matt@incendo.ws>
 dev: Matt Clarke <matt@incendo.ws>
 Maintainer: TQM
 Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Depiction: https://tqm-mos.github.io/description.html?id=com.matchstic.xenhtml
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.matchstic.xenhtml
 Depiction: https://tqm-mos.github.io/description.html?id=xenhtml
 Filename: ./debs/com.matchstic.xenhtml_0.6-3_iphoneos-arm.deb
 Size: 1366692 
@@ -28603,7 +28704,8 @@ Description: An improved signal strength meter.
 Depends: mobilesubstrate, firmware (>= 5.0)
 dev: mos
 Tag: purpose::extension
-Depiction: https://tqm-mos.github.io/description.html?id=bars
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
 Filename: ./debs/com.tqm-mos.bars_0.7.0_iphoneos-arm.deb
 Size: 19192 
 MD5sum: e60917af39d128b6a724e072b1585cb0
@@ -28622,7 +28724,8 @@ Description: mạng cột sóng của ios6 quay lại những đời ios mới
 Depends: mobilesubstrate, firmware (>= 5.0)
 dev: mos
 Tag: purpose::extension
-Depiction: https://tqm-mos.github.io/description.html?id=bars
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
 Filename: ./debs/com.tqm-mos.barsclassic_1.0_iphoneos-arm.deb
 Size: 15350
 MD5sum: 74c89835b277679f2c530331d3a3cd06
@@ -28641,7 +28744,8 @@ Description: mạng cột sóng hình cột điện quay lại những đời io
 Depends: mobilesubstrate, firmware (>= 5.0)
 dev: mos
 Tag: purpose::extension
-Depiction: https://tqm-mos.github.io/description.html?id=bars
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
 Filename: ./debs/com.tqm-mos.barscar_1.0_iphoneos-arm.deb
 Size: 11550
 MD5sum: 20e9bae41a48f058c4c7c27b53d6e446
@@ -28656,7 +28760,8 @@ Author: KVYSDESIGN
 Section: Utilities
 Description: Grady Alkaline For iOS Gói icon hiển thị pin ,xem hình bên dưới để hiểu rõ
 Maintainer: TQM
-Depiction: https://tqm-mos.github.io/description.html?id=grady
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.grady
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.grady
 Filename: ./debs/com.tqm-mos.grady_1.1_iphoneos-arm.deb
 Size: 205402
 MD5sum: b9f07c00c7a4faeac2215a64e8a3ad49
@@ -28671,7 +28776,8 @@ Author: Ryu
 Section: TQM
 Description: Gói icon Mask AE hỗ trợ Anemone
 Maintainer: TQM
-Depiction: https://tqm-mos.github.io/description.html?id=iconeffects
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.iconeffects
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.iconeffects
 Filename: ./debs/com.tqm-mos.iconeffects_1.1_iphoneos-arm.deb
 Size: 269878
 MD5sum: 4487ac304ec2f7c5b94a7b1de82ada99
@@ -28688,6 +28794,8 @@ Author: Nepeta
 Section: Tweaks
 Version: 0.1.0
 Installed-Size: 72
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.selectowo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.selectowo
 Filename: ./debs/com.tqm-mos.selectowo_0.1.0_iphoneos-arm.deb
 Size: 7152
 MD5sum: 4e59ac67b22ec08660cba7b189ca3187
@@ -28705,6 +28813,7 @@ Homepage: https://www.facebook.com/quangminhdx
 Maintainer: TQM
 Section: Iwidgets
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.htcclock
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.htcclock
 Filename: ./debs/com.tqm-mos.htcclock_1.0_iphoneos-arm.deb
 Size: 261990
 MD5sum: dd894967cf5f1bd63dc40de76c09512b
@@ -28722,6 +28831,7 @@ Homepage: https://www.facebook.com/quangminhdx
 Maintainer: TQM
 Section: Iwidgets
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.WeatherPro-Dark
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.WeatherPro-Dark
 Filename: ./debs/com.tqm-mos.WeatherPro-Dark_1.0_iphoneos-arm.deb
 Size: 9089814
 MD5sum: 26264d2e23bcfe86dead091ea22a1a2a
@@ -28739,6 +28849,7 @@ Homepage: https://www.facebook.com/quangminhdx
 Maintainer: TQM
 Section: Iwidgets
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.htcclock
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.htcclock
 Filename: ./debs/com.tqm-mos.htcclock_1.1_iphoneos-arm.deb
 Size: 261994
 MD5sum: a70ae411cc455f8ea37200b63ea9e34f
@@ -28754,6 +28865,7 @@ Maintainer: QM
 Author: Mos
 Section: Tweaks
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.xeninfo
 Version: 2.2.3
 Installed-Size: 372
 Filename: ./debs/com.tqm-mos.xeninfo_2.2.3_iphoneos-arm.deb
@@ -28771,6 +28883,7 @@ Maintainer: QM
 Author: Mos
 Section: TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.classicios6
 Filename: ./debs/com.tqm-mos.classicios6_1.1_iphoneos-arm.deb
 Size: 12130324
 MD5sum: ab552afb99e6ab9278849181c6e98699
@@ -28786,6 +28899,8 @@ Author: MrJeff
 Section: Tweaks
 Description: Bypass jailbreak detection for Barclays Bank, Bỏ qua phát hiện bẻ khóa cho Ngân hàng Barclays
 Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barclays-pwn
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barclays-pwn
 Filename: ./debs/com.tqm-mos.barclays-pwn_1.0.1_iphoneos-arm.deb
 Size: 3480
 MD5sum: df9146d04e98e2a258933d01f503f16e
@@ -28801,6 +28916,8 @@ Author: David Goldman
 Section: IOS12
 Description: Colorize your badges,thay đổi biểu tượng thông báo bên trên đồng màu với màu ứng dụng
 Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.colorbadges12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.colorbadges12
 Filename: ./debs/com.tqm-mos.colorbadges12_1.3.1_iphoneos-arm.deb
 Size: 64526
 MD5sum: 0323c89257b3996bc52ad65057bc1e46
@@ -28817,6 +28934,8 @@ Author: David Goldman
 Section: IOS12
 Description: Color your notifications
 Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.colorbanners212
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.colorbanners212
 Filename: ./debs/com.tqm-mos.colorbanners212_1.2.3_iphoneos-arm.deb
 Size: 692024
 MD5sum: a31fd5969b6768c4490060e7f3910424
@@ -28833,6 +28952,8 @@ Description: Change the "No Older Notifications" text to a custom one!
 Maintainer: TQM
 Author: YaYPIXXO <viggo@lekdorf.com>
 Section: IOS11
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cnon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cnon
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 Installed-Size: 159
 dev: yaypixxo
@@ -28852,6 +28973,8 @@ Author: ichitaso
 Section: Tweaks
 Description: Wi-Fi Change Notification Manager for iOS 10 to 12
 Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.notifywifix
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.notifywifix
 Filename: ./debs/com.tqm-mos.notifywifix_1.0.0k_iphoneos-arm.deb
 Size: 568
 MD5sum: 8cc482b3bc2b3545075b1a6e8eb34195
@@ -28867,6 +28990,8 @@ Author: Bruno Andrade
 Section: Tweaks
 Description: Brings Galaxy S8 Infinity to iOS
 Maintainer: TQM
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.s8edge
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.s8edge
 Filename: ./debs/com.tqm-mos.s8edge_1.1-3+debug_iphoneos-arm.deb
 Size: 288512
 MD5sum: 7a65f2a80d5421568aad3a0c797cf406
@@ -28882,6 +29007,7 @@ Author: ‪TQM
 Section: Fonts
 Maintainer: ‪TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cham
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cham
 Filename: ./debs/com.tqm-mos.cham_1.0_iphoneos-arm.deb
 Size: 140860
 MD5sum: ea5c21c3a14f8f767cf39adb7796aa3e
@@ -28897,6 +29023,7 @@ Maintainer: TQM
 Author: TQM
 Section: TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.dune
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.dune
 Filename: ./debs/com.tqm-mos.dune_1.0_iphoneos-arm.deb
 Size: 5388454
 MD5sum: baabed67012c51fe89bfe56f1ae9c30d
@@ -28912,6 +29039,7 @@ Author: ‪TQM
 Section: Fonts
 Maintainer: ‪TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.exo
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.exo
 Filename: ./debs/com.tqm-mos.exo_1.0_iphoneos-arm.deb
 Size: 860638
 MD5sum: 177de0ddc9d075baa2bd1e6c471854e7
@@ -28928,6 +29056,7 @@ Section: Utilities
 Description: Face Alkaline For iOS 10&11,gói icon hiển thị pin cho alkaline
 Maintainer: TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.facealkaline
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.facealkaline
 Filename: ./debs/com.tqm-mos.face_1.0_iphoneos-arm.deb
 Size: 253246
 MD5sum: 53d02eb7515e163d006109b13bd40c04
@@ -28943,6 +29072,7 @@ Author: ‪TQM
 Section: Fonts
 Maintainer: ‪TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.gineso
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.gineso
 Filename: ./debs/com.tqm-mos.gineso_1.0_iphoneos-arm.deb
 Size: 1295626
 MD5sum: aaccb4a7967eacc7649208277c2d3025
@@ -28958,6 +29088,7 @@ Author: ‪TQM
 Section: Fonts
 Maintainer: ‪TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.ifun
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.ifun
 Filename: ./debs/com.tqm-mos.ifun_1.0_iphoneos-arm.deb
 Size: 140720
 MD5sum: 18e4a0dfad34f8697f11061387b2fad4
@@ -28973,6 +29104,7 @@ Author: ‪TQM
 Section: Fonts
 Maintainer: ‪TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.Opensans
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.Opensans
 Filename: ./debs/com.tqm-mos.Opensans_1.0_iphoneos-arm.deb
 Size: 1140576
 MD5sum: 415f04bbf4ba4e9f59398eddc5417b5e
@@ -28988,6 +29120,7 @@ Author: ‪TQM
 Section: Fonts
 Maintainer: ‪TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.roboto
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.roboto
 Filename: ./debs/com.tqm-mos.roboto_1.0_iphoneos-arm.deb
 Size: 720810
 MD5sum: 6af21d80ae80cf6608f0cf139276cd6a
@@ -29003,6 +29136,7 @@ Author: ‪TQM
 Section: Fonts
 Maintainer: ‪TQM
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.texgyre
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.texgyre
 Filename: ./debs/com.tqm-mos.texgyre_1.0_iphoneos-arm.deb
 Size: 802376
 MD5sum: a3104e515d6a934b610aea6391347625
@@ -29014,7 +29148,8 @@ Name: Chat Bong Bóng
 Version: 2.0.8
 Architecture: iphoneos-arm
 Description: Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.chatxi
+Depiction: https://tqm-mos.github.io/description.html?id=com.c1d3r.messageheadsxi
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.c1d3r.messageheadsxi
 Author: C1d3 <anhminh311105@gmail.com>
 Section: IOS12
 Depends: firmware (>= 10), mobilesubstrate, com.rpetrich.rocketbootstrap, com.tqm-mos.crack, com.tqm-mos.mhfbsupport, com.tqm-mos.mhwasupport, com.tqm-mos.mhsmssupport
@@ -29036,7 +29171,8 @@ Name: PullOver Pro Cracked
 Author: c1d3r
 Maintainer: Quang Minh
 Description: Một tinh chỉnh giúp bạn mở nhanh các app dạng cửa sổ nhỏ bên cạnh ( hông ) máy
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.pullover10
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.PullOverPro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.PullOverPro
 Filename: ./debs/com.tqm-mos.PullOverPro_1.2-1_iphoneos-arm.deb
 Size: 5736648
 MD5sum: ea1fa2c3be837fad9282b9a170b54652
@@ -29053,7 +29189,8 @@ Author: TIGI Software
 Section: IOS12
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices 
 Maintainer: TQM
-Depiction: https://tqm-mos.github.io/description.html?id=filza
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.filzafilemanager12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.filzafilemanager12
 Filename: ./debs/com.tqm-mos.filzafilemanager12_3.6.5-4k_iphoneos-arm.deb
 Size: 20165562
 MD5sum: 1f44d7bdca88e1be132b75b1df3f9553
@@ -29071,6 +29208,7 @@ Section: IOS11
 Version: 1.0.3
 Installed-Size: 1896
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.sixls
 Filename: ./debs/com.tqm-mos.sixls_1.0.3_iphoneos-arm.deb
 Size: 1554156
 MD5sum: 073bc95fff53b53d26448cf21cf04c9f
@@ -29090,7 +29228,8 @@ Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
 Maintainer: TQM
 Author: AnemoneTeam <anemonetheming@gmail.com>
 Section: IOS11
-Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3
 Filename: ./debs/com.tqm-mos.anemone3_3.0~beta6_iphoneos-arm.deb
 Size: 16865044
 MD5sum: e24facd67333cac54a3ae4b8747344cb
@@ -29105,6 +29244,8 @@ Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
 Version: 3.0~beta4
 Architecture: iphoneos-arm
 Description: An awesome theme manager!
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3-extsb
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3-extsb
 Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
 Maintainer: TQM
 Author: AnemoneTeam <anemonetheming@gmail.com>
@@ -29124,7 +29265,8 @@ Author: Matt Clarke
 Section: System
 Description: Re-sign applications on your device
 Maintainer: TQM
-Depiction: https://tqm-mos.github.io/description.html?id=com.repro
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.reprovision
 Filename: ./debs/com.tqm-mos.reprovision_0.4.2_iphoneos-arm.deb
 Size: 10555816
 MD5sum: 74c29418af4f23d11459af50cf5b4b10
@@ -29141,7 +29283,8 @@ Description: Widget for Xen Html
 Homepage: https://www.facebook.com/quangminhdx
 Maintainer: TQM
 Section: Iwidgets
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.clockx
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.clockx
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.clockx
 Filename: ./debs/com.tqm-mos.clockx_1.0_iphoneos-arm.deb
 Size: 1643256
 MD5sum: 794ab227a2532248d9f14dc0d42a3841
@@ -29156,9 +29299,11 @@ Description: The BEST ad-blocker for Facebook.
 Maintainer: TQM
 Author: Rishanan
 Depends: mobilesubstrate
-Conflicts: jaja.jaja.jajaja
+Conflicts: chặn QC cho facebook
 Replaces: com.rishanan.fbadblock
 Section: Tweaks
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fbadblck
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fbadblck
 Filename: ./debs/com.tqm-mos.fbadblck_1.4~1_iphoneos-arm.deb
 Size: 5244
 MD5sum: 7b7e8387fe7d6d35c8a2fb3a7bc7c61b
@@ -29174,6 +29319,8 @@ Maintainer: TQM
 Author: smokin1337
 Section: IOS11
 Version: 2.2
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fugap
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fugap
 Installed-Size: 520
 Filename: ./debs/com.tqm-mos.fugap_2.2_iphoneos-arm.deb
 Size: 38536
@@ -29191,7 +29338,8 @@ Description: Widget for Xen Html
 Homepage: https://www.facebook.com/quangminhdx
 Maintainer: TQM
 Section: Iwidgets
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm.locknew
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.locknew
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.locknew
 Filename: ./debs/com.tqm-mos.locknew_1.0_iphoneos-arm.deb
 Size: 1936
 MD5sum: a947abc2d35eb9e53caf273f8634c1e5
@@ -29204,6 +29352,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Description: Simple Lockscreen & Homescreen widgets
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.munewidgetneon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.munewidgetneon
 Author: Mos
 Maintainer: QM
 Section: Iwidgets
@@ -29222,6 +29371,7 @@ Name: StacksPro
 Author: Mos
 Description: Một bộ themes khá lạ giống hoạt hình
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.stackspro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.stackspro
 Filename: ./debs/com.tqm-mos.stackspro_1.0_iphoneos-arm.deb
 Size: 8257154
 MD5sum: 47a145a4a5c79fe66f132e49afe3b9dc
@@ -29238,6 +29388,8 @@ Description: Add Substrate support to Substitute tweaks! And by that I mean, twe
 Maintainer: Jake James <jakeashacks@gmail.com>
 Author: Jake James <jakeashacks@gmail.com>
 Section: System
+Depiction: http://tqm-mos.github.io/description.html?id=ga.jakeashacks.substitutedummy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=ga.jakeashacks.substitutedummy
 Filename: ./debs/ga.jakeashacks.substitutedummy_1.0_iphoneos-arm.deb
 Size: 6294
 MD5sum: 954adf6afaefbeec2130b76d7d8950f0
@@ -29274,7 +29426,8 @@ Author: AnemoneTeam
 Section: System
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
 Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Depiction: https://tqm-mos.github.io/description.html?id=anemone3
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone
 Filename: ./debs/com.tqm-mos.anemone_2.1.8-1_iphoneos-arm.deb
 Size: 3992802
 MD5sum: 88e82fc1ee6db1750fe0e81f43053db9
