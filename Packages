@@ -15,6 +15,156 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.rpetrich.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Name: RocketBootstrap
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Version: 1.0.8~beta1
+Installed-Size: 596
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.8~beta1_iphoneos-arm.deb
+Size: 37108
+MD5sum: ebb6fb123e8a076fb53f93b247f29586
+SHA1: 9299ffb4dd1ac4686df8b9e851694f13e2925dec
+SHA256: d32777d4b7f027115ba6739dfa0ab9e933f87f8ef94c89c33ce8e8c9880e48f1
+
+Package: com.tqm-mos.a-bypass
+Name: A-Bypass
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Description: Super Jailbreak detection bypass!
+Maintainer: @tqmmos <anhkinh311105@gmail.com> 
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 1.0.6
+Installed-Size: 388
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-bypass
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-bypass
+Filename: ./debs/com.tqm-mos.a-bypass_1.0.6_iphoneos-arm.deb
+Size: 52208
+MD5sum: 5ec76bdede3729440e7459850561d855
+SHA1: 778b457517bb7035e12701b25c0e49a001cc3fc8
+SHA256: e872e9707d2afd6e28fa9b4a1a24eddf2b423c56bf1bfbf8cb61b94a9ed509ef
+
+Package: com.tqm-mos.a-font
+Name: A-Font
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Description: Change your font!
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 1.7.1
+Installed-Size: 2332
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-font
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.a-font
+Filename: ./debs/com.tqm-mos.a-font_1.7.1_iphoneos-arm.deb
+Size: 825842
+MD5sum: aca9157232f6effdb36fd5ff8134382d
+SHA1: c9e8c87b4ae2079f3439deb15d59dbf1898228ef
+SHA256: 19e0dbcf080f83bf73ebab4750f33721374bacf42b266be73c7177a762bf6941
+
+Package: com.tqm-mos.antibancode
+Version: 0.0.1-2+debug
+Section: System
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.flex2areo.apptools, org.cydia.kiimo.apptools
+Architecture: iphoneos-arm
+Installed-Size: 1313
+Name: AntiBan PUBG Code
+Author: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.antibancode
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.antibancode
+Filename: ./debs/com.tqm-mos.antibancode_0.0.1-2+debug_iphoneos-arm.deb
+Size: 320232
+MD5sum: 2d7faf209736f9fe3b6d5f474ab8a0ce
+SHA1: 3028288b7f10b6a7dbdbcc29448bd646593411e9
+SHA256: 44af165e82d0525884dc939261fd0547b2a8a5b78f8d418bb23d322c0a712f27
+
+Package: com.tqm-mos.callbubble
+Name: CallBubble (Beta)
+Depends: mobilesubstrate, com.modmyi.libswift4 (>= 4.2.1), firmware (>=13)
+Architecture: iphoneos-arm
+Description: Inspired by Google Dialer
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 0.2.0
+Installed-Size: 752
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callbubble
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.callbubble
+Filename: ./debs/com.tqm-mos.callbubble_0.2.0_iphoneos-arm.deb
+Size: 271440
+MD5sum: c9eecd9007c8695fd371058167379f02
+SHA1: a70b4b8dccf7c535b0c72fa120dc0169ee9306a3
+SHA256: 3ad51739814d8c7d50c3b43711f42aded7ec7c544c5157d73c15eeebb3893118
+
+Package: com.tqm-mos.facespro
+Name: Faces Pro
+Version: 1.2.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.3), ws.hbang.common (>= 1.6)
+Installed-Size: 484
+Author: Ben Rosen & CPDigitalDarkroom <support@quantumtweaks.com>
+Maintainer: @tqmmos
+Description: Customize your passcode buttons the way you like.
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.facespro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.facespro
+Filename: ./debs/com.tqm-mos.facespro_1.2.1_iphoneos-arm.deb
+Size: 146930
+MD5sum: 8aa457d620fd14b8effa2a181deda403
+SHA1: 77e56ff29a3e65c747234bebbfdff054e558bdf4
+SHA256: 388a6915751b1c5346b87ac32d1bc905dab13d1c3795304864724904c2cde6c6
+
+Package: com.tqm-mos.flyjb
+Name: FlyJB
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: @tqmmos
+Author: XsF1re
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Version: 0.2.4~beta8
+Installed-Size: 1180
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.flyjb
+Filename: ./debs/com.tqm-mos.flyjb_0.2.4~beta8_iphoneos-arm.deb
+Size: 592394
+MD5sum: 19c9dabd96b393e57b477d56aa08df83
+SHA1: 4aefb2c0c1892b325549074281c1c32ff4a9d1b4
+SHA256: 98d98fa13e94e1225ff388181d1b775e24d83688f291e40f35c12ac7077dd585
+
+Package: com.tqm-mos.prysm
+Name: Prysm
+Version: 1.6.2k
+Description: thiết kế lại trung tâm kiểm soát
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 2918
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.tqm-mos.prysm_1.6.2k_iphoneos-arm.deb
+Size: 1036592
+MD5sum: 58a26230c95a056c973bd2cb8a120006
+SHA1: 6bb66774607e40ce259bd4ae1a938140e8c183d9
+SHA256: 51416b6044172e7a89e0e6c44eb3011ff1a540a8a57b40eaa64b350c91302a29
+
 Package: com.tqm-mos.pulloverpro
 Version: 2.1
 Priority: optional
