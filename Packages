@@ -15,6 +15,46 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.appstoreplusplus12
+Name: AppStore++
+Version: 0.9.9-5
+Description: Hạ cấp ứng dụng 
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap, ws.hbang.common
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Installed-Size: 4064
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+Filename: ./debs/com.tqm-mos.appstoreplusplus12_0.9.9-5_iphoneos-arm.deb
+Size: 1414630
+MD5sum: a4a0bfa55f02179032c0af98e7eee0da
+SHA1: 5e78dd3aa43160c8c0bce9aed35f53aee1119b48
+SHA256: e8c79a6ef218d7f512117f6954103551477ca6c1435411ca16b4e3878d128289
+
+Package: com.tqm-mos.prysm
+Name: Prysm
+Version: 1.7k
+Description: Thiết kế lại trung tâm điều khiển
+Author: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
+Installed-Size: 2918
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
+Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
+Filename: ./debs/com.tcom.tqm-mos.prysm_1.7k_iphoneos-arm.deb
+Size: 1042518
+MD5sum: ce4f601992979e3463006bab54c07f56
+SHA1: dffaeeb761cc1fedaff29f339bb7e5d0df9ac70d
+SHA256: 51cc6de500b0231c882ad26fc0b8dcf0e865a7e6c79f77d47ab8f35f89f1405c
+
 Package: com.tqm-mos.pivot
 Name: Pivot
 Depends: mobilesubstrate, firmware (>= 6.0) 
@@ -980,26 +1020,6 @@ Size: 670950
 MD5sum: 2e488b43d7ef2f40fd59e933e773fca1
 SHA1: 0e7d06a0066dae0b9a934c55684e81494b73135a
 SHA256: 154b2bb5d48b3cff94a315aaa4772006d58a62a5fd0d35045c6853cdd0e89147
-
-Package: com.tqm-store.prysm
-Name: Prysm
-Version: 1.5.2k
-Description: Thiết kế lại trung tâm kiểm soát !
-Author: LaughingQuoll
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
-Installed-Size: 1973
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: @tqmmos <anhminh311105@gmail.com>
-Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
-Homepage: https://www.facebook.com/quangminhdx
-Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
-Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
-Filename: ./debs/com.tqm-store.prysm_1.5.2k_iphoneos-arm.deb
-Size: 443922
-MD5sum: 8099dd408f69af37f05110e798877d8d
-SHA1: 114eb955728c7c8a6a40fc58d744b8b2afa32fa3
-SHA256: 2fec56a34fff9799c2fa801f5fc6a3f9eeeacdc225d8fb6d6ca735f87c777db3
 
 Package: com.creaturecoding.libcspreferences
 Name: libCSPreferences
@@ -4671,25 +4691,6 @@ Size: 2623392
 MD5sum: 4455611457a244f3b9a31b5c872d3ce6
 SHA1: 99852abe5ebd7ba71253e46f842d19e3ac170b2a
 SHA256: b49425d1cf8212e9d9419d51a15f9905d1052109ae715ed69c84ea997fd8144d
-
-Package: com.tqm-mos.prysm.beta
-Name: Prysm Beta 5
-Version: 0.5
-Description: Thiết kế lại điểm kiểm soát
-Author: LaughingQuoll
-Depends: mobilesubstrate
-Installed-Size: 1303
-Section: Tweaks
-Architecture: iphoneos-arm
-Maintainer: @tqmmos
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.prysm
-Homepage: https://www.facebook.com/quangminhdx
-Filename: ./debs/com.tqm-mos.prysm.beta_0.5_iphoneos-arm.deb
-Size: 267272
-MD5sum: 6749d9ef57003782850592c6102b5ebf
-SHA1: 38203a3b8569a2ece53f241736ea0bd28a25dc71
-SHA256: b066b0f7b762979f79b1030749580227a19a00a7ef72c5ea95b3ce83c78d6325
 
 Package: com.tqm-mos.snowboard
 Name: SnowBoard
