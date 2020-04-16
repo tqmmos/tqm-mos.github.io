@@ -17827,40 +17827,6 @@ MD5sum: d8c29f29ac649fb53602fe26c4bcc5a0
 SHA1: e79e37eb5e06efb55826683dd13e0dd8076e05c7
 SHA256: 43641dbafff4188d7c99255a21c268d1ed7c7d457447d861f3401969b198a187
 
-Package: TQM.goldv1
-Name: Gold v1
-Author: TQM
-Version: 1.0
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Bộ chủ đề mang phong cách khá thụ vị ,rất nhã nhặn ( Đẹp)
-Homepage: https://www.facebook.com/quangminhdx
-Maintainer: Quang Minh
-Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=gold1
-Filename: ./debs/TQM.goldv1_1.0_iphoneos-arm.deb
-Size: 2891258
-MD5sum: 3f14026bb472b95e1fd1995248d3e4ba
-SHA1: 583d6d339f59cea4ff6c26ba727270d7a3e71856
-SHA256: 8b1eb07953fc3a62aca879e01825b11c019d2a191b57ee6bb6531306991a2b38
-
-Package: TQM.goldv2
-Name: Gold v2
-Author: TQM
-Version: 1.0
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Bộ chủ đề mang phong cách khá thụ vị ,rất nhã nhặn ( Đẹp)
-Homepage: https://www.facebook.com/quangminhdx
-Maintainer: Quang Minh
-Section: TQM
-Depiction: http://tqm-mos.github.io/description.html?id=gold2
-Filename: ./debs/TQM.goldv2_1.0_iphoneos-arm.deb
-Size: 1854680
-MD5sum: cc68d3ee4058b26ae94a58e8a092ca72
-SHA1: 8b13a3e10f3e67850e8c11c9c300ba5dc0af4da7
-SHA256: 112cbbb4052de4007f1ae5b17f5565c4bbbe07f6da353e6e91a8b8fe01ae88e6
-
 Package: TQM.lotus
 Name: Lotus
 Author: TQM
@@ -19069,7 +19035,7 @@ Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
 Maintainer: AnemoneTeam <anemonetheming@gmail.com>
 Author: AnemoneTeam <anemonetheming@gmail.com>
 Section: IOS11
-Depiction: http://tqm-mos.github.io/description.html?id=anemone3
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3
 Filename: ./debs/com.tqm-mos.anemone3_3.0~beta5_iphoneos-arm.deb
 Size: 16818928
 MD5sum: 4d9a8e351eed6a903af2c79c6e7e48d1
@@ -21269,7 +21235,7 @@ Version: 6.0.8
 Architecture: iphoneos-arm
 Description: Kho ứng dụng crack rất phong phú ,nó tương tự như kho ứng dụng appvn
 Pre-Depends: firmware (>= 10.0)
-Depends: mobilesubstrate, sileoturkiye.appsyncunified
+Depends: mobilesubstrate
 Maintainer: TQM
 Author: hotsjf
 Section: Applications
@@ -21284,7 +21250,7 @@ Name: AppCake
 Version: 6.1.2
 Architecture: iphoneos-arm
 Description: Kho ứng dụng crack rất phong phú ,nó tương tự như kho ứng dụng appvn
-Depends: mobilesubstrate, sileoturkiye.appsyncunified
+Depends: mobilesubstrate
 Maintainer: TQM
 Author: hotsjf
 Section: Applications
@@ -21439,6 +21405,8 @@ Author: smokin1337
 Section: IOS11
 Version: 2.2.3
 Installed-Size: 520
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fugap
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.fugap
 Filename: ./debs/com.tqm-mos.fugap_2.2.3_iphoneos-arm.deb
 Size: 45072
 MD5sum: 65b267c3aaf34fdc69c37e0c5da27598
@@ -22696,8 +22664,8 @@ Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
 Maintainer: TQM
 Author: AnemoneTeam <anemonetheming@gmail.com>
 Section: IOS11
-Depiction: https://tqm-mos.github.io/description.html?id=anemone3
-SileoDepiction: https://tqm-mos.github.io/description.html?id=anemone3
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3
 Filename: ./debs/com.tqm-mos.anemone3_3.0~beta7-1_iphoneos-arm.deb
 Size: 16865460
 MD5sum: e377ee35d7ba4ce953a5e293c074c45b
@@ -22716,8 +22684,8 @@ Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
 Maintainer: TQM
 Author: AnemoneTeam <anemonetheming@gmail.com>
 Section: IOS11
-Depiction: https://tqm-mos.github.io/description.html?id=anemone3
-SileoDepiction: https://tqm-mos.github.io/description.html?id=anemone3
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3-extsb
+SileoDepiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.anemone3-extsb
 Filename: ./debs/com.tqm-mos.anemone3-extsb_3.0~beta5_iphoneos-arm.deb
 Size: 48676
 MD5sum: d9ad77cea69ae21f7b34be8998dd7388
@@ -23192,21 +23160,6 @@ Size: 26426
 MD5sum: c2200a18a3cfd6a0af737db824dd4208
 SHA1: 149bf8d1b06a666ae0bb28bee21515fc28db3250
 SHA256: aac83e95040c9e435734931d26ff6c3b452c3bcf2a4afc57b2d5f84539f6485d
-
-Package: com.yourepo.devmos.fbadblock
-Name: FacebookAdBlocker
-Version: 1.2
-Architecture: iphoneos-arm
-Description: The BEST ad-blocker for Facebook.
-Author: Mos
-Section: Tweaks
-Depends: mobilesubstrate
-Maintainer: Quang Minh
-Filename: ./debs/com.yourepo.devmos.fbadblock_1.2_iphoneos-arm.deb
-Size: 6648
-MD5sum: e339fa3680ae3e77f8e09d16e3140a05
-SHA1: b8664f2a9ba1f357577d3fb315ee5eaa8ea5df14
-SHA256: e70f2c1470c7791953256a9d2b6c0cf9de6bfaf5ed514282f89b3c5234b7ebd1
 
 Package: com.yourepo.devmos.photodata
 Name: PhotoData
@@ -24544,7 +24497,7 @@ Name: Eraser Mos
 Version: 0.9.43
 Architecture: iphoneos-arm
 Description: Một tweaks để xoá cydia được fix lại cho tất cả các dòng từ ios 7-10.x.x
-Author: DevMos <quangminh388373@gmail.com>
+Author: fixmos <quangminh388373@gmail.com>
 Section: System
 Depends: firmware (>= 7.1), firmware (<= 10.3.3), mobilesubstrate
 Icon: file:///Applications/Eraser.app/Icon-60.png
@@ -25046,21 +24999,6 @@ Depiction: https://tqm-mos.github.io/description.html?id=com.xeon
 Filename: ./debs/com.tqm-mos.weatherme_1.0_iphoneos-arm.deb
 Size: 389192
 MD5sum: 4f4e12032094e5740ec12c616fac94af
-
-Package: com.tqm-mos.xeonbeta
-Name: Xeon (Beta)
-Version: 1.2~beta3
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker
-Conflicts: com.peterdev.xeon
-Architecture: iphoneos-arm
-Author: PeterDev
-Section: IOS12
-Description: Supercharge status bar!
-Maintainer: QM
-Depiction: https://tqm-mos.github.io/description.html?id=com.xeon
-Filename: ./debs/com.tqm-mos.xeonbeta_1.2~beta3_iphoneos-arm.deb
-Size: 1023478
-MD5sum: 6865bd10a6eac2d123f7422216f5326e
 
 Package: com.tqm-mos.csd2019freehack
 Name: Club Soccer Director 2019 Cheats
@@ -26036,20 +25974,6 @@ Filename: ./debs/com.tqm-mos.colorsdockiw_1.0_iphoneos-arm.deb
 Size: 520636
 MD5sum: 28c067dd617744169420b48e9642150d
 
-Package: com.tqm-mos.fbadblck
-Name: FacebookAdBlocker
-Version: 1.4
-Architecture: iphoneos-arm
-Description: Tinh chỉnh giúp tắt những QC khó chịu trên Facebook.
-Maintainer: QM
-Author: Rishanan
-Depends: mobilesubstrate
-Replaces: com.rishanan.fbadblock
-Section: Tweaks
-Filename: ./debs/com.tqm-mos.fbadblck_1.4_iphoneos-arm.deb
-Size: 5182
-MD5sum: 0d3f3024e900390efe71340602f468bd
-
 Package: com.tqm-mos.PullOverPro
 Version: 1.0-2~Beta2k
 Priority: optional
@@ -26231,17 +26155,6 @@ Author: Sniper_GER <sniperger@festival.ml>
 Filename: ./debs/com.tqm-mos.notchsimulatorxr12_1.5_iphoneos-arm.deb
 Size: 134846
 MD5sum: 666147ec04e2894042f8e48686fe95e4
-
-Package: com.tqm-mos.opennotifiervn
-Name: Opennotifier (VN)
-Version: 0.1
-Architecture: iphoneos-arm
-Description: Gói ngôn ngữ tiếng việt cho Opennotifier dịch bởi Quang Minh (TQM-Mos)
-Author: QM
-Section: Utilities
-Filename: ./debs/com.tqm-mos.opennotifiervn_0.1_iphoneos-arm.deb
-Size: 1618
-MD5sum: 0869f41b7c259064c0d1c85a15080d27
 
 Package: com.tqm-mos.pencilchargingindicator
 Version: 1.2-b2
@@ -28692,66 +28605,6 @@ MD5sum: b833f44d308c08cbee70294e3f526a5d
 SHA1: 3420eb5f8413a4d7d2813269679147867c7625ea
 SHA526: ec0c179d424fce0dfbfab3e6fdc2cf9405aa3bb96bff669ebfe964f4fb7e8206
 
-Maintainer: TQM
-Author: phoenix3200
-Name: Bars
-Package: com.tqm-mos.bars
-Section: Tweaks
-Installed-Size: 248
-Version: 0.7.0
-Architecture: iphoneos-arm
-Description: An improved signal strength meter.
-Depends: mobilesubstrate, firmware (>= 5.0)
-dev: mos
-Tag: purpose::extension
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
-Filename: ./debs/com.tqm-mos.bars_0.7.0_iphoneos-arm.deb
-Size: 19192 
-MD5sum: e60917af39d128b6a724e072b1585cb0
-SHA1: 6f78e192b4538cbf0cc0930fa2c11f70e8b344f2
-SHA256: 951cdce650a7a4d1e2343fea49c9fb158ed539be1f5b705efaeefdb860751a6a
-
-Maintainer: TQM
-Author: TQM
-Name: BarsClassic
-Package: com.tqm-mos.barsclassic
-Section: Tweaks
-Installed-Size: 248
-Version: 1.0
-Architecture: iphoneos-arm
-Description: mạng cột sóng của ios6 quay lại những đời ios mới
-Depends: mobilesubstrate, firmware (>= 5.0)
-dev: mos
-Tag: purpose::extension
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
-Filename: ./debs/com.tqm-mos.barsclassic_1.0_iphoneos-arm.deb
-Size: 15350
-MD5sum: 74c89835b277679f2c530331d3a3cd06
-SHA1: cf629990b96327a807d7b84c857d6569aa825416
-SHA256: e370688448e99b58cb50ec107a1ffd56979778f64000bcf77f1d6026f5c6bd65
-
-Maintainer: TQM
-Author: TQM
-Name: Bars car
-Package: com.tqm-mos.barscar
-Section: Tweaks
-Installed-Size: 248
-Version: 1.0
-Architecture: iphoneos-arm
-Description: mạng cột sóng hình cột điện quay lại những đời ios mới
-Depends: mobilesubstrate, firmware (>= 5.0)
-dev: mos
-Tag: purpose::extension
-Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.barscar
-Filename: ./debs/com.tqm-mos.barscar_1.0_iphoneos-arm.deb
-Size: 11550
-MD5sum: 20e9bae41a48f058c4c7c27b53d6e446
-SHA1: 2e73167edec5737946878a53eae808a52aff424a
-SHA256: 77f154f13c5974f2489145cbf9bdb6f4c2154c2199b336f387abce46adf36934
-
 Package: com.tqm-mos.grady
 Name: Grady Alkaline
 Version: 1.1
@@ -29290,25 +29143,6 @@ Size: 1643256
 MD5sum: 794ab227a2532248d9f14dc0d42a3841
 SHA1: 4d3b1b3255907b78d0522232a837855216d84f64
 SHA256: 5c6358513271030fb64bc3fec22906136417c359e2eac66dfde4c709e9c6e8fa
-
-Package: com.tqm-mos.fbadblck
-Name: FacebookAdBlocker Cracked
-Version: 1.4~1
-Architecture: iphoneos-arm
-Description: The BEST ad-blocker for Facebook.
-Maintainer: TQM
-Author: Rishanan
-Depends: mobilesubstrate
-Conflicts: chặn QC cho facebook
-Replaces: com.rishanan.fbadblock
-Section: Tweaks
-Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fbadblck
-SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fbadblck
-Filename: ./debs/com.tqm-mos.fbadblck_1.4~1_iphoneos-arm.deb
-Size: 5244
-MD5sum: 7b7e8387fe7d6d35c8a2fb3a7bc7c61b
-SHA1: fb923bedf4a486edd5fc1ca371f7510bcebe89ee
-SHA256: ce6df651a33a5fb5398e217cfc41da38e0ab5afb889e079bbed5cf444f5d426c
 
 Package: com.tqm-mos.fugap
 Name: FUGap
