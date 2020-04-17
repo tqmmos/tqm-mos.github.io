@@ -15,6 +15,173 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.poseidonrm
+Name: Poseidon Removal Tool
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Poseidon Removal Tool - Please download this package, which will revert all the changes made by Poseidon and rebuild the UI Cache (by executing uicache --all). After a respring, please remove both the Poseidon Package and this Poseidon Removal Tool Package from Cydia.
+Maintainer: @tqmmos
+Author: Joey GM
+Section: Utilities
+Version: 0.1
+Installed-Size: 164
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.poseidonrm
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.poseidonrm
+Filename: ./debs/com.tqm-mos.poseidonrm_0.1_iphoneos-arm.deb
+Size: 12688
+MD5sum: 3551ec131ad683206e766f4cd682eefd
+SHA1: bdac424d7195f3f3dc13cfa405022e5030404ad4
+SHA256: aab7efa03caede21a51f9a5dba16335fd0a68b4d46d1d4e9d79ec0d3e86aa23b
+
+Package: com.tqm-mos.artemis
+Name: Artemis
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Description: Springboard UI customization
+Maintainer: @tqmmos
+Author: Joey GM
+Section: Tweaks
+Version: 0.7.21~beta5
+Installed-Size: 380
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.artemis
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.artemis
+Filename: ./debs/com.tqm-mos.artemis_0.7.21~beta5_iphoneos-arm.deb
+Size: 47534
+MD5sum: 8d58be4896d68a7d3468164a588f0fa6
+SHA1: d94cdd14c3edcede859ea7807d589024df15f0f0
+SHA256: 6d7d46a24be657a049c9b95fbcf78915a306253dc7bb672d0b87b69424349460
+
+Package: com.tqm-mos.aphrodite
+Name: Aphrodite
+Architecture: iphoneos-arm
+Description: Asset Catalog Editor
+Maintainer: @tqmmos
+Author: Joey GM
+Section: Utilities
+Version: 0.6.12~beta1
+Installed-Size: 4412
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aphrodite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aphrodite
+Filename: ./debs/com.tqm-mos.aphrodite_0.6.12~beta1_iphoneos-arm.deb
+Size: 2121978
+MD5sum: db7d3ba5fd7dfd4ead476e2349d1379f
+SHA1: 1c9ba021b1f80abb3c4f0b3d6ab56e4799ceffb7
+SHA256: fbb52e7275018b3397c43da730a86ddf058c7739b37736dce2d0222f146a02a6
+
+Package: com.tqm-mos.aphrodite
+Name: Aphrodite
+Architecture: iphoneos-arm
+Description: Asset Catalog Editor
+Maintainer: @tqmmos
+Author: Joey GM
+Section: Utilities
+Version: 0.6.12~beta2
+Installed-Size: 4428
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aphrodite
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.aphrodite
+Filename: ./debs/com.tqm-mos.aphrodite_0.6.12~beta2_iphoneos-arm.deb
+Size: 2122784
+MD5sum: 022e9a842dbdcf947d2a29dd80ffb7ab
+SHA1: 10eb26dfd6bea8912e9903b964f84fd10152ab9f
+SHA256: d2593941a506ebe8c2ebb108916403198452adee80f8bdf95a4d610fe0bf89ba
+
+Package: com.tqm-mos.appstoreplusplus12
+Name: AppStore++
+Version: 0.9.9-9
+Description: hạ cấp ipa app
+Author: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Section: IOS11
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Installed-Size: 4388
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appstoreplusplus12
+Filename: ./debs/com.tqm-mos.appstoreplusplus12_0.9.9-9_iphoneos-arm.deb
+Size: 1468186
+MD5sum: 55592d17e7acd5267089845b5a05780e
+SHA1: dfabc8a34cc511072f8629778d551435c0789847
+SHA256: 23c82a73129b6079d91c98eb2ee8d921da6bc19616a2ac192b3a8968cb3d806c
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Depends: firmware (>= 5.0), firmware (<= 13.4.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Maintainer: @tqmmos
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: com.yourepo.devmos.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: System
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Version: 74.0
+Installed-Size: 496
+Depiction: http://tqm-mos.github.io/description.html?id=com.yourepo.devmos.appsyncunified
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.yourepo.devmos.appsyncunified
+Filename: ./debs/com.yourepo.devmos.appsyncunified_74.0_iphoneos-arm.deb
+Size: 64108
+MD5sum: 90fd37f4baaa1877531aa7132e89f801
+SHA1: 991bd0dddfa43a506ef98af90af703936ad61d33
+SHA256: a26055eb9e93e3d288bdca8444d0fb6d7a23ff1a263dc1d83c68df3eaa4ae5fd
+
+Package: me.nepeta.axon
+Name: Axon
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Architecture: iphoneos-arm
+Description: Priority Hub for iOS 11 and 12
+Maintainer: @tqmmos
+Author: Nepeta & Baw Appie
+Section: IOS11
+Version: 1.0
+Installed-Size: 576
+Depiction: http://tqm-mos.github.io/description.html?id=me.nepeta.axon
+SileoDepiction: http://tqm-mos.github.io/description.html?id=me.nepeta.axon
+Filename: ./debs/me.nepeta.axon_1.0_iphoneos-arm.deb
+Size: 192180
+MD5sum: 8b1dca2b6b2eb28c3aa970d7addf79e5
+SHA1: dffe5c5f46080378c85affa3469bd372c482e75f
+SHA256: 032c63ef7237a5838f79db2772208149a02764bba9ab61a4e2fa2cf9fa533d53
+
+Package: com.tqm-mos.oro
+Version: 1.0
+Architecture: iphoneos-arm
+Name: oRo
+Description: Need To install SnowBoard or iThemer
+Section: TQM
+Maintainer: @tqmmos  <anhminh311105@gmail.com>
+Author: @tqmmos  <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.oro
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.oro
+Filename: ./debs/com.tqm-mos.oro_1.0_iphoneos-arm.deb
+Size: 28563880
+MD5sum: ceec266c8745bc5088d7beb6e6a01359
+SHA1: 9fc5c8784ce16605ba773566c4fd2ff56af332b6
+SHA256: ddf8caa46238f305ad93780196e675651cb900396a83f3a20bc4113b1f62f8e5
+
+Author: opa334 <opa334@protonmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Name: Choicy
+Package: com.tqm-mos.choicy
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Section: Tweaks
+Installed-Size: 734
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Advanced Tweak Configuration!
+dev: opa334
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.choicy
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.choicy
+Filename: ./debs/com.tqm-mos.choicy_1.2_iphoneos-arm.deb
+Size: 146662
+MD5sum: 2a90ea93b213940a437fc18f32c496cb
+SHA1: 1b20e9db9a470e4b69cb723d84dbe5d56dab1a1e
+SHA256: 96947e82547d7a164481e87a56871b06650cea71ec04faf513b9df7df3e20fff
+
 Package: com.tqm-mos.appstoreplusplus12
 Name: AppStore++
 Version: 0.9.9-5
@@ -41,19 +208,19 @@ Version: 1.7k
 Description: Thiết kế lại trung tâm điều khiển
 Author: LaughingQuoll
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.tqm-mos.ccsupport
-Installed-Size: 2918
+Installed-Size: 1042518
 Section: Tweaks
 Architecture: iphoneos-arm
-Maintainer: @tqmmos
+Maintainer: @tqmmos <anhminh311105@gmail.com>
 Icon: https://minhhi-store.github.io/packages_info/screenshots/prysm1.png
 Homepage: https://www.facebook.com/quangminhdx
 Sileodepiction: https://minhhi-store.github.io/Sileo/prysm.json
 Depiction: https://minhhi-store.github.io/packages_info/prysm/?p=info
-Filename: ./debs/com.tcom.tqm-mos.prysm_1.7k_iphoneos-arm.deb
-Size: 1042518
-MD5sum: ce4f601992979e3463006bab54c07f56
-SHA1: dffaeeb761cc1fedaff29f339bb7e5d0df9ac70d
-SHA256: 51cc6de500b0231c882ad26fc0b8dcf0e865a7e6c79f77d47ab8f35f89f1405c
+Filename: ./debs/com.tqm-mos.prysm_1.7k_iphoneos-arm.deb
+Size: 1042544
+MD5sum: f5de4e5c61bdb870a20a9d0aa7e4431e
+SHA1: 92eb357882b22a9484d72878d44a95b37fde989f
+SHA256: 41d86fddd922176983286917dfe831996c796b5e766e54aa382539d866754cab
 
 Package: com.tqm-mos.pivot
 Name: Pivot
