@@ -15,6 +15,27 @@ MD5sum: 040a89b224125302a682e4af5d95d954
 SHA1: d667b505b98b905e603c157b33e31667c51af220
 SHA256: 55c3bbab02dbd62e6f1279721ea3040d9bed5787f27f48262035826332cf5862
 
+Package: com.tqm-mos.magmaevo
+Name: Magma Evo
+Version: 2.0.0
+Description: Tô màu trung tâm kiểm soát
+Author: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.tqm-mos.ccsupport, com.spark.libsparkcolourpicker
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Installed-Size: 1892
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Icon: https://minhhi-store.github.io/packages_info/screenshots/magmaevo1.png
+Homepage: https://www.facebook.com/quangminhdx
+Sileodepiction: https://minhhi-store.github.io/Sileo/magmaevo.json
+Depiction: https://minhhi-store.github.io/packages_info/magmaevo/?p=info
+Filename: ./debs/com.tqm-mos.magmaevo_2.0.0_iphoneos-arm.deb
+Size: 1455572
+MD5sum: e4fa40b3e6e1b55c60f14709667de9da
+SHA1: 59355c7da774ebe01d2174304c62a26f8c7e7465
+SHA256: e1092d5de828ac1bd60ffed3c3f1cfdb88c11e4afbc78554ffe58861976741c0
+
 Package: com.tqm-mos.poseidonrm
 Name: Poseidon Removal Tool
 Depends: mobilesubstrate, preferenceloader

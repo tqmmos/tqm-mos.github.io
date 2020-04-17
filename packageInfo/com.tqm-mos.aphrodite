@@ -1,6 +1,6 @@
 {
 	"compatitle": "iOS 13, iOS 13.4",	
-	"desc_long": " Aphrodite là Trình chỉnh sửa danh mục file cho iOS 13.<br><br>* Với Aphrodite, bạn có thể duyệt, tìm kiếm, xuất và chỉnh sửa cho các tệp .car trên thiết bị.<br><br>*****Các loại tài sản được hỗ trợ*****<br><br>* - Hình ảnh, Biểu tượng, Màu sắc, PDF, Vector Glyph và Dữ liệu khác (Chỉnh sửa chỉ khả dụng cho hình ảnh và biểu tượng kể từ phiên bản beta 2)",
+	"desc_long": " Aphrodite là Trình chỉnh sửa danh mục file cho iOS 13.<br><br>* Với Aphrodite, bạn có thể duyệt, tìm kiếm, xuất và chỉnh sửa cho các tệp .car trên thiết bị.<br><br>*****Các loại tệp được hỗ trợ*****<br><br>* - Hình ảnh, Biểu tượng, Màu sắc, PDF, Vector Glyph và Dữ liệu khác (Chỉnh sửa chỉ khả dụng cho hình ảnh và biểu tượng kể từ phiên bản beta 2)",
 	"screenshot": "<div style='text-align:center;'><a href='screenshot/aphrodite.png' target='_blank'><img width=90% src='screenshot/aphrodite.png'/></a><br></div>",
-	"changelog": "*****v0.6.12 ~ beta2*****<br><br>* Nút hoàn nguyên để xóa tài sản đã chỉnh sửa.<br><br>* Khắc phục tiềm năng cho sự cố ứng dụng và thư mục xuất bị thiếu.<br><br>*****v0.6.12 ~ beta1*****<br><br>* Phát hành công khai ban đầu.",	
+	"changelog": "*****v0.6.12 ~ beta2*****<br><br>* Nút hoàn nguyên để xóa file đã chỉnh sửa.<br><br>* Khắc phục sự cố ứng dụng và thư mục xuất bị thiếu.<br><br>*****v0.6.12 ~ beta1*****<br><br>* Phát hành bản đầu tiên.",	
 }
