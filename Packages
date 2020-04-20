@@ -54,6 +54,23 @@ MD5sum: 3551ec131ad683206e766f4cd682eefd
 SHA1: bdac424d7195f3f3dc13cfa405022e5030404ad4
 SHA256: aab7efa03caede21a51f9a5dba16335fd0a68b4d46d1d4e9d79ec0d3e86aa23b
 
+Package: com.tqm-mos.emoijcute
+Name: Emoij Cute 11 - 12 - 13
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Description: Thay đổi icon emoij bàn phím Cute 🥰
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Fonts
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.emoijcute
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.emoijcute
+Filename: ./debs/com.tqm-mos.emoijcute_1.0_iphoneos-arm.deb
+Size: 66199590
+MD5sum: 499e82fd8288cfe8657433e32a8aa908
+SHA1: 465bb7e7e3c4b974322f1a3dabcac13a440f4d10
+SHA256: 33e0570d65b8ee1e5de1b81e06b2c0d73ee1de4f6d26bfe9e01f9e5ca527a8f2
+
 Package: com.tqm-mos.artemis
 Name: Artemis
 Depends: mobilesubstrate, preferenceloader, applist
