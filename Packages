@@ -15,6 +15,167 @@ MD5sum: 42a0e865f2fbcbed3c98d004b92e1be7
 SHA1: 625f67671ce0ab010c4ebd78ba718067f48dc3b0
 SHA256: c30030d6bad61e66a88e3772c96244137eeb65d75fe134384fe82f562055caae
 
+Package: com.ikilledappl3.sareth
+Name: Sareth
+Version: 1.11-1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 12.0)
+Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
+Installed-Size: 2900
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Maintainer: @tqmmos
+Description: Take charge of your Control Center!
+Depiction: http://tqm-mos.github.io/description.html?id=com.ikilledappl3.sareth
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.ikilledappl3.sareth
+Filename: ./debs/com.ikilledappl3.sareth_1.11-1_iphoneos-arm.deb
+Size: 613598
+MD5sum: 9e90e2a6642fd0873dc4daacc7bf84e1
+SHA1: 684d4a92de461b042e168a2a9671d8fecd8b8f86
+SHA256: 1904bbe931a674fc6b79851592c321f0ff142d54b6c4aad9de357c4d67e239c3
+
+Package: com.spark.libsparkcolourpicker
+Name: libsparkcolourpicker
+Depends: 
+Architecture: iphoneos-arm
+Description: Simple to implement, simple to use colour picker library. Built by SparkDev.
+Maintainer: @tqmmos
+Author: Spark
+Section: System
+Tag: role::developer
+Version: 1.0.0
+Installed-Size: 424
+Depiction: http://tqm-mos.github.io/description.html?id=com.spark.libsparkcolourpicker
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.spark.libsparkcolourpicker
+Filename: ./debs/com.spark.libsparkcolourpicker_1.0.0_iphoneos-arm.deb
+Size: 122020
+MD5sum: 9ec94bffde9647c570595bd3ed06b1c0
+SHA1: 7824ba3fa8ce5ed8debfbc2027861872bcff51f3
+SHA256: f51ebbd17d88e22952db403bf76c5ae78e9cee1177c431b25c3e1ea95a06873d
+
+Package: com.tqm-mos.boxy4
+Name: Boxy 4 (iOS 13)
+Version: 4.1.1
+Description: Sắp xếp mạnh mẽ về icon biểu tượng
+Author: William Vabrinskas <wvabrinskas@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Installed-Size: 3564
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.boxy4
+Filename: ./debs/com.tqm-mos.boxy4_4.1.1_iphoneos-arm.deb
+Size: 2860560
+MD5sum: 5987faec20da3f1297520fdb338aa08f
+SHA1: 8d93c50f48e5c8590ae8bc0f2897b4466aea04f1
+SHA256: 074544fd9b895c7b58a0807c578dde35c60d7d09f58e4d67e81d7e3f6e835de4
+
+Package: com.tqm-mos.cask2
+Name: Cask 2
+Version: 1.0.1
+Section: IOS12
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Installed-Size: 300
+Author: Ryan Nair
+Maintainer: @tqmmos
+Description: Animated table scrolling
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cask2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cask2
+Filename: ./debs/com.tqm-mos.cask2_1.0.1_iphoneos-arm.deb
+Size: 42812
+MD5sum: 8bdb7ab14208388edef27b14de5e38fc
+SHA1: 5af764f3f976f90d4cea1f3eb342b7b3b9d6b420
+SHA256: 1e764c0a509cf28086628836aa27249a22b01deb69d05734f8e8aeb71d9473bd
+
+Package: com.tqm-mos.fugap
+Name: FUGap
+Version: 2.2.4
+Section: IOS11
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 584
+Author: smokin1337 <smokin1337@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Close some gaps, hide some stuff !
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fugap
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.fugap
+Filename: ./debs/com.tqm-mos.fugap_2.2.4_iphoneos-arm.deb
+Size: 177898
+MD5sum: 8f15f976d0fa37dc8f559ef0adeb1860
+SHA1: 5668ef7ad6907202fe1ab5b92b9b3cde6e6f8acf
+SHA256: c5c061234e544953f95c8728478985a440c23525708ea05b210a4683fc65f1ed
+
+Package: com.tqm-mos.newapp
+Name: New App
+Description: Nhân bản mọi app ứng dụng 
+Depends: plutil, com.tqm-mos.newterm2 | ws.hbang.newterm2, com.yourepo.devmos.appsyncunified | net.angelxwind.appsyncunified | us.diatr.appsyncunified
+Architecture: iphoneos-arm
+Section: System
+Author: @tqmmos <anhminh311105@gmail.com>
+Version: 1.0
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newapp
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newapp
+Filename: ./debs/com.tqm-mos.newapp_1.0_iphoneos-arm.deb
+Size: 93582
+MD5sum: fc19ab7b520d8f674812749419bbc038
+SHA1: 68d7dc69e002a23b494d3f692a2961ba822b5153
+SHA256: fe6faeb620d7717aa9c1fce2b6f17bba205d4948f5ca488f1dd9459cdaf8872c
+
+Package: com.tqm-mos.peek
+Name: Peek
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: App Previews for iOS
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peek
+Filename: ./debs/com.tqm-mos.peek_1.0_iphoneos-arm.deb
+Size: 3421364
+MD5sum: 300d42404f099537fdceb783d3eb8bb1
+SHA1: 5ee110485b71c658cf34bccc57b58ce72f7c4fb6
+SHA256: e2a872a1eac18942b77a9639fb086e4ac58435c395acedec3b13c6b5474633fd
+
+Package: com.tqm-mos.peekdark
+Name: Peek Dark
+Version: 1.0
+Section: TQM
+Architecture: iphoneos-arm
+Author: @tqmmos <anhminh311105@gmail.com>
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Description: Dark Previews for iOS
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.peekdark
+Filename: ./debs/com.tqm-mos.peekdark_1.0_iphoneos-arm.deb
+Size: 3018400
+MD5sum: 36768a7765a000d8fdb674f6f7979df5
+SHA1: d61fcc3ed7857f514beb4737e6975ff6ccc62d9e
+SHA256: ab91deda299a9db31623baa6ecaedbc91840640a6653125c719ab6042fa40c98
+
+Package: com.tqm-mos.st5
+Name: Springtomize 5
+Version: 5.1.4
+Description: Một số lượng lớn cài đặt cho thiết bị của bạn
+Author: sharedRoutine
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Installed-Size: 1947
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.st5
+Filename: ./debs/com.tqm-mos.st5_5.1.4_iphoneos-arm.deb
+Size: 650982
+MD5sum: 6157741ab7971d0bc7a81f35d8864e07
+SHA1: 5ffc05313230ca5d436180d01b1cf69b7167827a
+SHA256: 39fd8eab4b710549c012c370db39eb9e40cc8b09c3e12710a603c0cdc9467cc9
+
 Package: com.tqm-mos.autotouch
 Name: AutoTouch 
 Version: 6.1.2k
