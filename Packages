@@ -15,6 +15,408 @@ MD5sum: 42a0e865f2fbcbed3c98d004b92e1be7
 SHA1: 625f67671ce0ab010c4ebd78ba718067f48dc3b0
 SHA256: c30030d6bad61e66a88e3772c96244137eeb65d75fe134384fe82f562055caae
 
+Package: com.tqm-mos.autotouch
+Name: AutoTouch 
+Version: 6.1.2k
+Description: ios autotouch
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Priority: optional
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Installed-Size: 107265
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autotouch
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autotouch
+Filename: ./debs/com.tqm-mos.autotouch_6.1.2k_iphoneos-arm.deb
+Size: 47057734
+MD5sum: a8063ad0878b46c221f47887f203b822
+SHA1: 30c2790a1030d5a7ff1c41cc50e0766d9c8616bf
+SHA256: caca651619eed8d14149b28fd1b5d4ade46eb8a64b3d09fda1778f639dbeeaeb
+
+Package: com.tqm-mos.autotouchhelper
+Version: 9.0
+Priority: optional
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Kích hoạt bản quyền cho AutoTouch miễn phí!
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: AutoTouch Helper
+Author: Kent Krantz
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autotouch
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.autotouch
+Filename: ./debs/com.tqm-mos.autotouchhelper_9.0_iphoneos-arm.deb
+Size: 44584
+MD5sum: bfe46120fbbe06bc2079d64b3f70ea0b
+SHA1: e670ddc7282daced1766c6b404660308982a7480
+SHA256: aabf62f3c43fe4dcc83be5b640cb69db3e85965ae7587fe9e116d387345ffa9d
+
+Package: com.tqm-mos.cydown12
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 7.0.9
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/tqmmos
+Maintainer: @tqmmos
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.cydown12
+Filename: ./debs/com.tqm-mos.cydown12_7.0.9_iphoneos-arm.deb
+Size: 3295304
+MD5sum: 0d2373dda8a986bc6d6797d529dcbacb
+SHA1: 0c015e30b0a7280871089fac282982e07e563644
+SHA256: 0d6314a2361c2185020b82ab583a2d00cb756ddd4c67af0e9f443f7d0dea0af4
+
+Package: com.tqm-mos.nougat
+Name: Nougat
+Version: 1.0
+Description: thanh trạng thái android
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Icon: https://chariz.com/cdn/icon/nougat/icon@3x.png
+Installed-Size: 5255
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nougat
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nougat
+Filename: ./debs/com.tqm-mos.nougat_1.0_iphoneos-arm.deb
+Size: 1349138
+MD5sum: 8433916f43714b5d6299673dee207421
+SHA1: 6d148c864d6dee4b1367d6e21c5352ad50da8612
+SHA256: 91a2731371f314f1b889eb1941b20a1f50541d6e2cbe9b57a2c87f7a4563e35c
+
+Package: com.tqm-mos.unsub
+Version: 0.1.9
+Section: Tweaks
+Maintainer: @tqmmos
+Description: Chặn phát hiện Jailbreak cho các ứng dụng của bạn
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12, me.nepeta.unsub
+Architecture: iphoneos-arm
+Installed-Size: 624
+Name: UnSub
+Author: Nepeta
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.unsub
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.unsub
+Filename: ./debs/com.tqm-mos.unsub_0.1.9_iphoneos-arm.deb
+Size: 73984
+MD5sum: 0fff9af5790d684d9e5cbfbc0ec734c0
+SHA1: 190a18da2d79ea8d07650cae8aa21597aee2f8f3
+SHA256: 2f2d083d1230e0d873943518f0db40e49a93f85a8cbcd4c5baddf73cc2711a4a
+
+Package: com.tqm-mos.maskace5678
+Name: Massk Ace ( 5/6/7/8 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskace
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskace
+Filename: ./debs/com.tqm-mos.maskace5678_1.0_iphoneos-arm.deb
+Size: 6620
+MD5sum: 037e4d770f02216f64dc3d9fc98100ff
+SHA1: 52a8419033777d2e75145499100c1108d41645c6
+SHA256: ededcd24aafd6dccc041378726ef842193679ccd5a75783d91c32acf56589b12
+
+Package: com.tqm-mos.maskacepluspromax
+Name: Massk Ace ( Plus - ProMax )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskace
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskace
+Filename: ./debs/com.tqm-mos.maskacepluspromax_1.0_iphoneos-arm.deb
+Size: 9490
+MD5sum: cd7a5650a7aecfccdd014a676f0e1d0c
+SHA1: 5965c3bf570df2543f42b611ce911a0166cb17f3
+SHA256: c1b0dd31139f2a088dd667f69a5b785eccaf8f6c72d830d02f98b3c4f81d8bb2
+
+Package: com.tqm-mos.maskshow5678
+Name: Massk Show ( 5/6/7/8 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskshow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskshow
+Filename: ./debs/com.tqm-mos.maskshow5678_1.0_iphoneos-arm.deb
+Size: 3282
+MD5sum: 2eb333eaddbb8267daec4a12f94c2ce2
+SHA1: feb45d7313d06f487eaaa851f5ddf030132ace5c
+SHA256: 0d96c5eda0891da33f6907f6745f8f4eed948fc19beb9df27f4bcc411194ef1c
+
+Package: com.tqm-mos.maskshowpluspromax
+Name: Massk Show ( Plus - ProMax )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskshow
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskshow
+Filename: ./debs/com.tqm-mos.maskshowpluspromax_1.0_iphoneos-arm.deb
+Size: 6672
+MD5sum: 38eedd63c9918133f8abafed96a824c6
+SHA1: c0024c75a517b60d0e7850ab30cd94f9a13adc00
+SHA256: 1fff3cfabe8ec53f353a6c2731a9ca0928465dc1a6abe12ca9225dabd92b3be2
+
+Package: com.tqm-mos.masksquarev2pluspromax
+Name: Massk Square V2 ( Plus - ProMax )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev2
+Filename: ./debs/com.tqm-mos.masksquarev2pluspromax_1.0_iphoneos-arm.deb
+Size: 32020
+MD5sum: 6845bda19428ca79751dc0fdff5a6770
+SHA1: 90752ea3ae334f15cb3c680e0a672159514792b0
+SHA256: 238ef25a2ac354d1be60ac6672e7a4cae31cbde17d679698044c271ddf945690
+
+Package: com.tqm-mos.masksquarev25678
+Name: Massk Square V2 ( 5/6/7/8 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev2
+Filename: ./debs/com.tqm-mos.masksquarev25678_1.0_iphoneos-arm.deb
+Size: 9916
+MD5sum: a9251c8d60e9ca75a8b5e85a46c0788f
+SHA1: b234808cdbf22bcaa552abc10777094ad84cc341
+SHA256: 9479bbcdf80d1cfc13aa1685b130046c15774ce031afbbfa9fb220c1717d4970
+
+Package: com.tqm-mos.masksquarev3pluspromax
+Name: Massk Square V3 ( Plus - ProMax )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev3
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev3
+Filename: ./debs/com.tqm-mos.masksquarev3pluspromax_1.0_iphoneos-arm.deb
+Size: 9422
+MD5sum: fd2091adb56d8a9030c8c8608b1dfaf3
+SHA1: b8f981cb3917708886a61b64a375d3d2194b6009
+SHA256: c2e4399fc8a402e030d886a9d41f553340e918b6c2c1b89db1144584702a338b
+
+Package: com.tqm-mos.masksquarev35678
+Name: Massk Square V3 ( 5/6/7/8 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev3
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev3
+Filename: ./debs/com.tqm-mos.masksquarev35678_1.0_iphoneos-arm.deb
+Size: 4438
+MD5sum: 8101cb49b05376cdbdde47979167b171
+SHA1: 9afbcb6c551f28039ef2fd17f1a8f7487700209a
+SHA256: 50d98667038b05e44cd29c70df1dd42a7e311de4849c2c16c77203aa1aa1466e
+
+Package: com.tqm-mos.masksquarev4pluspromax
+Name: Massk Square V4 ( Plus - ProMax )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev4
+Filename: ./debs/com.tqm-mos.masksquarev4pluspromax_1.0_iphoneos-arm.deb
+Size: 21510
+MD5sum: 663288c8cb82e5f04d21ffee74db4b58
+SHA1: e0cd4d4619252d7ae524246d87d0dafc2757d1ee
+SHA256: a9daa73c5ab5651f304c6c198eeb81d8e4d65d1fef5c568ba6ad34b01dc8c27c
+
+Package: com.tqm-mos.masksquarev45678
+Name: Massk Square V4 ( 5/6/7/8 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev4
+Filename: ./debs/com.tqm-mos.masksquarev45678_1.0_iphoneos-arm.deb
+Size: 9788
+MD5sum: 5ecbf306310aada7e3a9046c22bd205e
+SHA1: b58c83e5663358725768560f24a700034ab2dbd3
+SHA256: 8284cee6720551d9099597afde9af7abdaeaf3e587e70a0b724dc3da42dbdf82
+
+Package: com.tqm-mos.masksquarev5pluspromax
+Name: Massk Square V5 ( Plus - ProMax )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev5
+Filename: ./debs/com.tqm-mos.masksquarev5pluspromax_1.0_iphoneos-arm.deb
+Size: 22198
+MD5sum: 5fe5cb50f5cdc37e95872721ebb4e8e7
+SHA1: 1f15420b0aaaa142844eb9bffe394956df4569d0
+SHA256: 0afe3d316e07180c4e743e1e538d9adf872f9fe1b0aff0b434902e5c595da1a9
+
+Package: com.tqm-mos.masksquarev55678
+Name: Massk Square V5 ( 5/6/7/8 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev5
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev5
+Filename: ./debs/com.tqm-mos.masksquarev55678_1.0_iphoneos-arm.deb
+Size: 8688
+MD5sum: 0a98116fe1f11f26b7a060bb94ba9dac
+SHA1: afbb4bd6a7352f18218bafc12d420d0caf98cea8
+SHA256: 9d8ecc725111a091b84f8fee154ca15f1dba09c1b53874757d8b35bca4d8c9a2
+
+Package: com.tqm-mos.masksquarev6pluspromax
+Name: Massk Square V6 ( Plus - ProMax )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev6
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev6
+Filename: ./debs/com.tqm-mos.masksquarev6pluspromax_1.0_iphoneos-arm.deb
+Size: 49864
+MD5sum: 9c17419923382d1a53937016ef10e580
+SHA1: 4add01fedb14facaa6c00c645466668aea757a8a
+SHA256: ce7710f1c30127b10b6b60dbf74e3dda3086c55525969f90ed7d75df8424e4e5
+
+Package: com.tqm-mos.masksquarev65678
+Name: Massk Square V6 ( 5/6/7/8 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev6
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev6
+Filename: ./debs/com.tqm-mos.masksquarev65678_1.0_iphoneos-arm.deb
+Size: 20594
+MD5sum: 02f8fd2cf5797c82fad3dc1d293b511d
+SHA1: 87838ca2c14d70580bbdcd0c65c8f34c1de181d8
+SHA256: a1a9cc13fc29a9e68ca6b563d1342b817de7531f6afc52e86b74683c92f7b19a
+
+Package: com.tqm-mos.masksquarev7pluspromax
+Name: Massk Square V7 ( Plus - ProMax )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev7
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev7
+Filename: ./debs/com.tqm-mos.masksquarev7pluspromax_1.0_iphoneos-arm.deb
+Size: 22964
+MD5sum: 102616ab5c00614078ab3f24b95e6387
+SHA1: 6a343eb8b07b89c60113657e8ce414079f732395
+SHA256: b8d72afd6e8c116e6819de66aa29482f5538b41f8b0358ec3eeabdae9007d8e0
+
+Package: com.tqm-mos.masksquarev75678
+Name: Massk Square V7 ( 5/6/7/8 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev7
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.masksquarev7
+Filename: ./debs/com.tqm-mos.masksquarev75678_1.0_iphoneos-arm.deb
+Size: 5114
+MD5sum: e3834df70e1a9164dae00d051a25cb7a
+SHA1: 9ec79c5ea26f96ba9d2551ab7cda543ac32e0c61
+SHA256: 10a72a26342888c1bcddd439f01b2af12aa8701bc7f9655229698eea91439108
+
+Package: com.tqm-mos.maskstack5678
+Name: Massk Stack ( 5/6/7/8 )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskstack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskstack
+Filename: ./debs/com.tqm-mos.maskstack5678_1.0_iphoneos-arm.deb
+Size: 5608
+MD5sum: 6262b292185a1b9e24993bfcab9212cc
+SHA1: 296194b4af588787de629fe10d4857c0d062a7a2
+SHA256: 5c267736bb0c0a3113fbf6d32f863bf593376f33de414d16540197081326e0cc
+
+Package: com.tqm-mos.maskstackpluspromax
+Name: Massk Stack ( Plus - ProMax )
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Icon Buil System by Tqm-Mos
+Author: @tqmmos <anhminh311105@gmail.com>
+Section: Mask System
+Depends: mobilesubstrate
+Maintainer: QM <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskstack
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.maskstack
+Filename: ./debs/com.tqm-mos.maskstackpluspromax_1.0_iphoneos-arm.deb
+Size: 10552
+MD5sum: 29594c8db67aeebe1ac371c4aa57c9d0
+SHA1: 8d5e119a77073bff83169eb338870258a4b2cb2e
+SHA256: 89fd03a6e4842a3e1cfbf33c6b3a347a385778a72e3a144482a56da9bad331ea
+
 Package: com.tqm-mos.maskround5678
 Name: Massk Round ( 5/6/7/8 )
 Version: 1.0
