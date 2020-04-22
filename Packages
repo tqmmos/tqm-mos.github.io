@@ -112,7 +112,7 @@ SHA256: c5c061234e544953f95c8728478985a440c23525708ea05b210a4683fc65f1ed
 Package: com.tqm-mos.newapp
 Name: New App
 Description: Nhân bản mọi app ứng dụng 
-Depends: plutil, com.tqm-mos.newterm2 | ws.hbang.newterm2, com.yourepo.devmos.appsyncunified | net.angelxwind.appsyncunified | us.diatr.appsyncunified
+Depends: com.bingner.plutil | plutil, com.tqm-mos.newterm2 | ws.hbang.newterm2, com.yourepo.devmos.appsyncunified | net.angelxwind.appsyncunified | us.diatr.appsyncunified
 Architecture: iphoneos-arm
 Section: System
 Author: @tqmmos <anhminh311105@gmail.com>
@@ -121,10 +121,115 @@ Maintainer: @tqmmos <anhminh311105@gmail.com>
 Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newapp
 SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newapp
 Filename: ./debs/com.tqm-mos.newapp_1.0_iphoneos-arm.deb
-Size: 93582
-MD5sum: fc19ab7b520d8f674812749419bbc038
-SHA1: 68d7dc69e002a23b494d3f692a2961ba822b5153
-SHA256: fe6faeb620d7717aa9c1fce2b6f17bba205d4948f5ca488f1dd9459cdaf8872c
+Size: 93596
+MD5sum: 1bab9cf389af7e4fc0956547a1f7a6eb
+SHA1: ce87c01242765379cf570bba60fd7383b1a315fb
+SHA256: cde423ff4507dd94e0a823d3aa6e06c544940ee80bad70a0ae3511cd3bd3d39c
+
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Architecture: iphoneos-arm
+Description: Centralized toggle system for iOS
+Homepage: https://rpetri.ch/cydia/flipswitch/beta/
+Depiction: https://rpetri.ch/cydia/flipswitch/beta/
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Section: System
+Tag: purpose::extension, role::developer
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
+Version: 1.0.16~beta6
+Installed-Size: 2380
+Filename: ./debs/com.a3tweaks.flipswitch_1.0.16~beta6_iphoneos-arm.deb
+Size: 298132
+MD5sum: 6af0c630882c2b00399438f324c6de33
+SHA1: ca800afbc3977961f47cc1aa41379c42f24c9aaf
+SHA256: 1858e31bc1e642ab956e3b06ef9b89df236295de20a09192b06c551f5de626b5
+
+Package: com.tqm-mos.appcake4
+Name: AppCake 4
+Version: 4.96
+Pre-Depends: firmware (>= 7.0) 
+Architecture: iphoneos-arm 
+Author: hotsjf <iphonecake@gmail.com>
+Description: AppCake 4 Legacy version.  
+Maintainer: @tqmmos <anhminh311105@gmail.com> 
+Section: Utilities
+Icon: file:///Applications/iPhoneCake.app/AppIcon57x57.png
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appcake4
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.appcake4
+Filename: ./debs/com.tqm-mos.appcake4_4.96_iphoneos-arm.deb
+Size: 4609258
+MD5sum: 132cc18eb14ca093a8756335f31f7fdf
+SHA1: 5228b7b5fc58b99a9bb66704aa68515a8067b10e
+SHA256: be407eb030c7df541b0cc80eb33a7393cc961e643181bf2b5147f61ffdd94f27
+
+Package: com.tqm-mos.newterm2
+Name: NewTerm (iOS 10 – 13)
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS
+Maintainer: @tqmmos
+Author: HASHBANG Productions <support@hbang.ws>
+Section: System
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Version: 2.4
+Installed-Size: 6792
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newterm2
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.newterm2
+Filename: ./debs/com.tqm-mos.newterm2_2.4_iphoneos-arm.deb
+Size: 3202026
+MD5sum: 674933ca5bbe091bc1d268b234db1f7a
+SHA1: 4c55a8e92fbb40237ed5fd34452a66566559560d
+SHA256: 7bd883fe1423a366bbbc263bb852f70fbbddf348e0972b11a679b40d7a529c61
+
+Package: com.tqm-mos.pubgvng
+Version: 1.7
+Section: Hack Games
+Maintainer: @tqmmos
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Installed-Size: 954
+Name: PUBG Hack ( VNG )
+Author: KIIIMO
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pubgvng
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.pubgvng
+Filename: ./debs/com.tqm-mos.pubgvng_1.7_iphoneos-arm.deb
+Size: 874732
+MD5sum: 6c935e8889998146e3403e391895bb6d
+SHA1: 83c4d6c3961f767410aa27ddf655cc4b67c0371c
+SHA256: ee500afabc9227add317c9fbb5160d3999c67fe62c424151d58e8ada51e474d1
+
+Package: libactivator
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta6), com.rpetrich.rocketbootstrap (>= 1.0.8~beta1)
+Name: Activator
+Priority: optional
+Architecture: iphoneos-arm
+Description: Centralized gestures, button and shortcut management for iOS
+Homepage: https://rpetri.ch/cydia/activator/beta/
+Depiction: https://rpetri.ch/cydia/activator/beta/
+Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Section: System
+dev: rpetrich
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Version: 1.9.13~beta6
+Installed-Size: 4228
+Filename: ./debs/libactivator_1.9.13~beta6_iphoneos-arm.deb
+Size: 708420
+MD5sum: cf8a7ba5235ce0f1bb744fa164e48206
+SHA1: 475c492b085433d1c27dde400c632d3842a5c66c
+SHA256: a258da1ab7aafd32d92b420ee9f9b09a980879a6ecc6cce688431a06e4a22e6a
 
 Package: com.tqm-mos.peek
 Name: Peek
