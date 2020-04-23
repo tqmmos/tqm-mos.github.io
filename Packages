@@ -15,6 +15,119 @@ MD5sum: 42a0e865f2fbcbed3c98d004b92e1be7
 SHA1: 625f67671ce0ab010c4ebd78ba718067f48dc3b0
 SHA256: c30030d6bad61e66a88e3772c96244137eeb65d75fe134384fe82f562055caae
 
+Package: applist
+Name: AppList
+Architecture: iphoneos-arm
+Description: Allow extensions to read the list of installed apps
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3~beta1) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Section: System
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+Version: 1.5.10~beta1
+Installed-Size: 600
+Filename: ./debs/applist_1.5.10~beta1_iphoneos-arm.deb
+Size: 141980
+MD5sum: aaf53181da1925b5c41538130909dcbc
+SHA1: 0904789df6c5cd842be690bf8d499207eb10cd89
+SHA256: dfe2e04c471e44fbe0ff60f959f5b5d8effd0101a661b7e3f012731809f72e8c
+
+Package: applist
+Name: AppList
+Architecture: iphoneos-arm
+Description: Allow extensions to read the list of installed apps
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Section: System
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+Version: 1.5.13
+Installed-Size: 600
+Filename: ./debs/applist_1.5.13_iphoneos-arm.deb
+Size: 145960
+MD5sum: a246635d6757f54e1e460ef675f14a8e
+SHA1: 18eb849b44b0fa568356044245ea20fd0a26f253
+SHA256: c2e8f7fa5fd09a17af03da4d3c5ed68993e72be1e3f3bd2cb160868aa62f2933
+
+Package: applist
+Name: AppList
+Architecture: iphoneos-arm
+Description: Allow extensions to read the list of installed apps
+Maintainer: Ryan Petrich <rpetrich@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.6~beta) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Section: System
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+Version: 1.5.14
+Installed-Size: 600
+Filename: ./debs/applist_1.5.14_iphoneos-arm.deb
+Size: 93138
+MD5sum: cd8cc24cb82a6714a6a1a41424d72e22
+SHA1: d7883ca1eb96611d9856f17c3510872decfce0eb
+SHA256: 81ad24dd58694e8b6b72706b108f75a51d8eb049c856975e9fc86b1976a25b1e
+
+Package: com.tqm-mos.frame
+Name: Frame
+Version: 2.0.0-beta2
+Architecture: iphoneos-arm
+Description: Bring your iDevice to life with true video wallpapers.
+Author: Zerui Chen <chenzerui2002@gmail.com>
+Section: IOS12
+Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.99)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.frame
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.frame
+Filename: ./debs/com.tqm-mos.frame_2.0.0-beta2_iphoneos-arm.deb
+Size: 1744140
+MD5sum: bea7cd6e7950670e153035965de7e5a7
+SHA1: 3a26125e4715e251e268a450610c6bf43e06564d
+SHA256: 5dbc8445fe582c2a70fc99baf4c994fe199badfb24fa26eab8546da5b6ab5430
+
+Package: com.tqm-mos.frame1220
+Name: Frame (<12.2)
+Version: 2.0.0-beta2
+Architecture: iphoneos-arm
+Description: Bring your iDevice to life with true video wallpapers.
+Author: Zerui Chen <chenzerui2002@gmail.com>
+Section: IOS11
+Depends: mobilesubstrate,preferenceloader,org.swift.libswift,firmware (>= 11.0),firmware (<=12.1.9)
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.frame1220
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.frame1220
+Filename: ./debs/com.tqm-mos.frame1220_2.0.0-beta2_iphoneos-arm.deb
+Size: 1744270
+MD5sum: a193457ca8a3cc51b06cdc211b3ccd55
+SHA1: ca944b97ed9f709e788a3860714f8766051df403
+SHA256: 154fa172db20f5b9ff1d71a78378ff32ab900064a69fd0c2b84a8c0d676b7768
+
+Package: com.tqm-mos.nougat
+Name: Nougat
+Version: 1.0.1
+Description: Thanh trạng thái Android cho IOS
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Icon: https://chariz.com/cdn/icon/nougat/icon@3x.png
+Installed-Size: 5306
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nougat
+SileoDepiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.nougat
+Filename: ./debs/com.tqm-mos.nougat_1.0.1_iphoneos-arm.deb
+Size: 1368858
+MD5sum: 3885ecf567e3618f3a14b4193f4d14dd
+SHA1: a83238351b409363e61319ff1c517953e0333158
+SHA256: a47468eb0cd0969fb84fe67960caf79f042222f97fd395026c55e9831ebeeec7
+
 Package: com.ikilledappl3.sareth
 Name: Sareth
 Version: 1.11-1
